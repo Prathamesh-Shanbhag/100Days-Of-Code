@@ -22,3 +22,46 @@ Under JavaScript I learnt about :
 - Destructuring Objects by itself & using Functions.
 - New String Methods introduced in ES6 Javascript
 - For of Loop
+
+### R1D3
+
+Decided to Complete with ES6 major concepts today and I am almost done with JavaScript.
+Topics I Covered:
+
+- Spread Operator
+- Rest Operator
+- ES6 Array Methods
+- Modularizing of Code as done in React
+- Callback,Promises & Async/Await.
+
+### R1D4
+
+Potential Final Day of Javascript(Will be moving on to REACT soon! Yayy!)
+All from very basics
+
+- Callbacks,Promises and Async/Await
+- AJAX,HTTP,API Requests
+- Created a Random Joke Generator project using these concepts.
+  Watched Eddie on Youtube Reviewing OpenSource Projects Live
+- All my knowledge on Opensource has been through Eddie and the EddieHub Community.
+- Learnt a lot about how to make a good open source project some points include
+- Include Version Releases
+- Include GitHub Actions
+- Have a well documented readme file
+- Create labels for issues and create issues too!
+- Include Important Project links in respective places.
+
+### R1D5
+
+Took it a litle easy today, was really sleep deprived, although still managed to complete two projects.
+JavaScript Cocktails API Project & Random User Generator Project
+
+- The API's used were CocktailsDB API and RandomUser API
+- Made use of all AJAX Concepts like fetch, async/await.
+- Also modularized the code!
+
+COCKTAILS API PROJECT
+
+This is one project I would recommend to others , who want to fortify their JavaScript Basics,because this project will touch on those topics from the start very well.
+I really had fun making this project, Do check it out and let me know your thoughts on it!
+LINK IN BIO!
