@@ -65,3 +65,23 @@ COCKTAILS API PROJECT
 This is one project I would recommend to others , who want to fortify their JavaScript Basics,because this project will touch on those topics from the start very well.
 I really had fun making this project, Do check it out and let me know your thoughts on it!
 LINK IN BIO!
+
+### R1D6
+
+- GETTING STARTED WITH REACT!
+
+- Posting really late but I Finally Started with React and got introduced to create-react-app the ready-to-go template for react web-apps.
+- Although I couldn't get started with much of React Concepts, I just snooped around the file structure and learnt what it contained along with the important terminal commands that will be required to build my project.
+- Prepared a presentation on my final year project(which took up most of my day and React Concepts will have to wait for a bit.) & this project requires me to get started with Machine Learning using Python and also learn about OpenCV, Dlib,and TensorFlow to create the model and React for the Front-End of this Project.
+- Any suggestions or resources of good quality for the project mentioned above will be greatly appreciated in the comments!
+- Also Dealt with a minor bug in the cocktails api project which was preventing the fetch request , which stopped the Single Drink Page from Loading.
+
+### R1D7(25th March)
+
+Starting with Basic React Concepts!
+
+- Learning about Components.
+- Nested Components.
+- Also learnt about JSX.
+- Prepping for a 36 Hour Hackathon coming up soon!
+- Couldn't do much today since I was super buzy, and will try and catch up soon.
