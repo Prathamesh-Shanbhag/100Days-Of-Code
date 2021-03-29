@@ -85,3 +85,41 @@ Starting with Basic React Concepts!
 - Also learnt about JSX.
 - Prepping for a 36 Hour Hackathon coming up soon!
 - Couldn't do much today since I was super buzy, and will try and catch up soon.
+
+### R1D8
+
+Working with Components.
+
+- Was really buzy since I am taking part in a Hackathon was on call all day and couldn't do the learning part much.
+- Although the project has some advanced react concepts, I will have to learn them on the fly, I have a team-mate to help me out.
+- Trying to find ways to improve my posts by using canva or so.
+- Also attended a live stream by @eddiejaoude and had a really amazing conversation on GitHub and Open-Source.
+
+### R1D9
+
+- Another day spent all day on call and a few meetings for something coming up soon, although I did start with something cool which is creating an account on HackerRank and started with a few Practice tests on there!
+- Planning to soon start with Python so it is easy for me to solve the problems on there and probably on LeetCode as well, since the text editor on HackerRank doesn't work with JavaScript very well.(Accepts Node.js JavaScript only)
+- Attended the Monthly Community Call w/ @eddiejaoude and as usual it was amazing and inspiring!
+  The talks included:
+  Talks included :
+  Github Kanban Project Board/Actions.
+  Web Development/Assembly & TensorFlow for Machine Learning.
+  Best Cloud Platforms to host Projects.(Digtal Ocean,AWS, etc)
+  How the community is inclusive to all & overcoming the language barrier together!
+
+### R1D10(28th March)
+
+- Wasn't feeling very productive today, I kept delaying working and was starting to feel the burn-out.
+- Got to complete only a few of the React Concepts today, and founf myself sleeping or scrolling through youtube for the rest.
+- The thing that added value to my day today was the stream by @eddie on Freelancing and Tech in general, which actually made my day.
+  Since he covered topics like:
+  Burnout- Something that I'm starting to feel, but felt better when I heard someone address it and the way to tackle it was to take the much needed break which I'm going to cash in on soon during this challenge of 100 Days.
+  How to get into Freelancing and how to always try and over-deliver to clients to improve your network, and potentially get more clients!
+
+### R1D11(29th March)
+
+Getting Through the RoadBlocks!
+
+- Now stuck on a HackerRank problem that I don't think I can solve without learning any other language because using just Javascript doesn't seem to be working
+- In React started learning about Inline CSS using JSX & props which work like parameters in a function, but I am yet to explore more of props.
+- I will soon start learning Figma to improve the quality of my posts and provide value to people who would want to consume any content that I put out, and also I love UI/UX related content so I am ever-ready to learn stuff like that.
