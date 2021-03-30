@@ -123,3 +123,11 @@ Getting Through the RoadBlocks!
 - Now stuck on a HackerRank problem that I don't think I can solve without learning any other language because using just Javascript doesn't seem to be working
 - In React started learning about Inline CSS using JSX & props which work like parameters in a function, but I am yet to explore more of props.
 - I will soon start learning Figma to improve the quality of my posts and provide value to people who would want to consume any content that I put out, and also I love UI/UX related content so I am ever-ready to learn stuff like that.
+
+### R1D12
+
+FIGMA IS AMAZING!
+
+- As I had mentioned in my previous post, I started learning about UI/UX and also started learning Figma and its different tools.
+- Figma is really versatile and User Friendly itself and as I dug deeper I found about different tools made by the community ready to use for you, which I found really amazing.
+- I made this post using those tools and I can't wait to explore further and maybe share more about how I made those posts!
