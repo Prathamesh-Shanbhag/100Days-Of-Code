@@ -139,3 +139,10 @@ FIGMA IS AMAZING!
 - Attended a Twitter Spaces session by @eddiejaoude on Time Management for Developers
 
 - Leave your Feedbacks in the Comment section and let me know what you think!
+
+### R1D14(1st april)
+
+Today was a Rest Day
+
+- You are allowed 1 rest day in a span of 2 weeks in the #!00DaysOfCode Challenge(You could take more depending on the situation but I would like to stick to the rules for now), which I decided to take today.
+- Just attended a small DevConnect session on HackOn 2.0 with a lot of Hackers and the team consisting of Aditya,Khushi and Siddharth, and had a lot of fun!
