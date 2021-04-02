@@ -146,3 +146,13 @@ Today was a Rest Day
 
 - You are allowed 1 rest day in a span of 2 weeks in the #!00DaysOfCode Challenge(You could take more depending on the situation but I would like to stick to the rules for now), which I decided to take today.
 - Just attended a small DevConnect session on HackOn 2.0 with a lot of Hackers and the team consisting of Aditya,Khushi and Siddharth, and had a lot of fun!
+
+### R1D15()
+
+- A Day full of value.
+- Got really less done in terms of completing React so to make up planning to stay up and complete it!
+- Talking about value, Attended a Lot of Livestreams and TwitterSpaces!
+- Livestream by @eddie and other Guild community leads (trying not to tag them all and make it spammy) - on Leveraging Communities
+- Another Livestream by Eddie reviewing LHD:Build Hackathon Submissions/And Introducing RadioEddie Feature on Discord.
+- MLH Livestream on Hackathon Impacts and Hacker Community by @siddharth_hacks.
+- Twitter Spaces hosted by @Khusbooverma with absolutely amazing speakers like Eddie , @DthompsonDev
