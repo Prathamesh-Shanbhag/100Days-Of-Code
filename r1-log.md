@@ -156,3 +156,19 @@ Today was a Rest Day
 - Another Livestream by Eddie reviewing LHD:Build Hackathon Submissions/And Introducing RadioEddie Feature on Discord.
 - MLH Livestream on Hackathon Impacts and Hacker Community by @siddharth_hacks.
 - Twitter Spaces hosted by @Khusbooverma with absolutely amazing speakers like Eddie , @DthompsonDev
+
+### R1D16()
+
+✨Making Some Progress!
+In React:
+🚩Working with Lists
+🚩 Key prop and Spread Operator
+🚩 React Events and their handling
+🚩 Import and Export statements in React.
+🚩 Introduction to hooks.
+🚩 useState() Hook.
+🚩 Created a small birthday reminder project using useState() hook.
+
+Workshops/Livestreams:
+🍀Hack Club Asia Conference by @hackclubapac @starthackclub
+🍀Playing with docker by @iam_dcfan @bashwomancommunity @bashwoman
