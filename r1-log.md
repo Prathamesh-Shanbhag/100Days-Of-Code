@@ -172,3 +172,17 @@ In React:
 Workshops/Livestreams:
 🍀Hack Club Asia Conference by @hackclubapac @starthackclub
 🍀Playing with docker by @iam_dcfan @bashwomancommunity @bashwoman
+
+### R1D17
+
+✨Perfectly Balanced as all things should be.(if you know you know :P)
+In React:
+🚩 useEffect() hook.
+🚩 Various use cases of useEffect().
+🚩 Multiple Returns.
+🚩 Ternary Operators.
+
+Workshops/Livestreams:
+🍀Building a Neural Network using TensorFlow.js by @carrycooldude @gdgchandigarh
+🍀@mlhacks stream- Building an SOS app using GPS/Maps Technology by @adityaoberai1
+🍀@mlhacks Share Party Stream!!
