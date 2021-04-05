@@ -186,3 +186,18 @@ Workshops/Livestreams:
 🍀Building a Neural Network using TensorFlow.js by @carrycooldude @gdgchandigarh
 🍀@mlhacks stream- Building an SOS app using GPS/Maps Technology by @adityaoberai1
 🍀@mlhacks Share Party Stream!!
+
+### R1D18
+
+✨A DAY TO REMEMBER.
+
+🚩 Couldn't do anything during the day since I stayed up late working on a React project I mentioned in my earlier post.
+💯 But the second half of my day was super super productive and filled to the brim with value.
+
+Workshops/Livestreams:
+🙌Moderated my very first session on Getting the best out of Azure with Pradeep Kandel, who is a Microsoft MVP, with the organizing team of @hack_the_mountains.
+
+🍀Attended a seminar on time management arranged by my university.
+🍀@hashnode BootCamp on Personal Brand building by @samjulien
+🍀 Multi-Community call by @eddiejaoude on the EddieHub Discord talking about Hackathon Experiences & Challenges.
+🍀@dthompsondev Twitter Spaces on Navigating your tech career, probably one of the best talks I've been a part of, so much to learn, so much value, every single minute I was learning something new and also had my personal doubts solved by Danny himself, I highly recommend checking him out if you haven't already!
