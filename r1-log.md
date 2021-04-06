@@ -201,3 +201,32 @@ Workshops/Livestreams:
 🍀@hashnode BootCamp on Personal Brand building by @samjulien
 🍀 Multi-Community call by @eddiejaoude on the EddieHub Discord talking about Hackathon Experiences & Challenges.
 🍀@dthompsondev Twitter Spaces on Navigating your tech career, probably one of the best talks I've been a part of, so much to learn, so much value, every single minute I was learning something new and also had my personal doubts solved by Danny himself, I highly recommend checking him out if you haven't already!
+
+### R1D19(6th April)
+
+✨Can't believe I'm going to hit 20 days!
+
+⚛️Under React useEffect hook:
+🚩Conditionals.
+🚩Dependancy List.
+🚩Cleanup Function.
+🚩Fetch.
+
+💬Live Talks:
+🍀 DevConnect 2.0 turned out to be something I didn't expect but, glad I was a part of it.
+
+💬Some amazing topics discussed:
+🚩Personal Branding.
+🚩Handling Criticism.
+🚩 Starting out in fields like Web Dev & Machine Learning.
+🚩General talks on tech!
+@HackOnHackathon
+
+🤝Join the @HackOnHackathon discord server to become a part of the next DevConnect!
+
+🚩Also follow them if you haven't already:
+@siddharth_hacks
+@khushiSharma_22
+@adityaoberai1
+@ekuekansh
+These people are amazing and know their stuff!🔥
