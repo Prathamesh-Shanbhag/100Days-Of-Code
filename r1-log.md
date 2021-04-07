@@ -230,3 +230,12 @@ Workshops/Livestreams:
 @adityaoberai1
 @ekuekansh
 These people are amazing and know their stuff!🔥
+
+### R1D20
+
+✨More React!
+🚩 Just practiced with React Hooks.
+🚩 Started with a React Project using hooks.
+
+💯 Started learning on Google Cloud Platform!
+🚩 Finished the very first lab!
