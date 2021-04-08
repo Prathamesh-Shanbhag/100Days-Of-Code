@@ -239,3 +239,26 @@ These people are amazing and know their stuff!🔥
 
 💯 Started learning on Google Cloud Platform!
 🚩 Finished the very first lab!
+
+### R1D21
+
+✨Less Coding, More Value for today.
+
+In React :
+🚩Worked on building a tours website using React.
+🚩Designed and built a custom banner for LinkedIn and Twitter that would show what I as a person in the field of tech is all about!
+
+Talks/Livestreams:
+🍀 @dthompsondev 's Twitter Spaces on questions to ask in an interview and how to control the interview!
+A talk that was about 2 hours long but full of value.
+Glad I got to ask my personal questions to Danny & Pete as well.
+I would request Danny to keep such spaces more often!
+Things I learnt :
+🚩 Always ask questions to the interviewer.
+🚩 Always keep the interviewer in the loop of your thought process.
+🚩 Golden Responses to the question-
+"Do you have any further questions for us?"
+
+🍀Another Twitter Spaces at 2:00am but couldn't afford to miss it though by - @RealChrisSean & @codingphase @thetechrally @chrislyonm
+🚩 Talks about Web Dev and YouTube, and Content Creation in general, glad I could pitch in and ask questions here as well.
+🚩 Lots of value in this talk and overall my biggest takeaway was that everyone grows at their own pace, and you would do great without comparing yourself to someone else's progress.
