@@ -262,3 +262,15 @@ Things I learnt :
 🍀Another Twitter Spaces at 2:00am but couldn't afford to miss it though by - @RealChrisSean & @codingphase @thetechrally @chrislyonm
 🚩 Talks about Web Dev and YouTube, and Content Creation in general, glad I could pitch in and ask questions here as well.
 🚩 Lots of value in this talk and overall my biggest takeaway was that everyone grows at their own pace, and you would do great without comparing yourself to someone else's progress.
+
+### R1D22(9th April)
+
+✨React Projects!
+
+🚩Started with a few mini React projects so I could get used to learning hooks.
+🚩First Project I Made is this mini Tour cards section which can be cleared by selecting the not interested option.
+I ran into a small bug when I couldn't understand prop naming when passing it over to other components, and made a few mistakes while passing them over.
+
+🌊Talks/Streams:
+🍀BootCamp on Stand Out by Building A Personal Brand by @colbyfayock
+#hashnodebootcamp
