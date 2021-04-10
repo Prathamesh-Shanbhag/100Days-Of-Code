@@ -274,3 +274,16 @@ I ran into a small bug when I couldn't understand prop naming when passing it ov
 🌊Talks/Streams:
 🍀BootCamp on Stand Out by Building A Personal Brand by @colbyfayock
 #hashnodebootcamp
+
+### R1D23(10th April)
+
+✨ Working on More Projects! ⚒️
+
+In React ⚛️:
+🚩 Worked & Completed a Menu Project that gets data from the API.
+🚩 The Project has buttons to filter the data to view only categories such as breakfast, lunch, dinner and an All Foods option as well.
+🚩 The Data from the API is stored in an array and then using the filter method, a new array with all items that match the category of the selected option is returned.
+🚩 The Categories are also dynamic, meaning if a new food with a new category gets added in the data from the API, then the button to filter that data gets automatically rendered as well.
+
+🌊 Talks/Livestreams:
+🍀 Moderated my 2nd session by @hack_the_mountains for a Workshop on Artificial Intelligence and Smart Data by Victor H Vargas.
