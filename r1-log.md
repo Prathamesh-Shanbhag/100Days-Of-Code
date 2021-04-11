@@ -287,3 +287,22 @@ In React ⚛️:
 
 🌊 Talks/Livestreams:
 🍀 Moderated my 2nd session by @hack_the_mountains for a Workshop on Artificial Intelligence and Smart Data by Victor H Vargas.
+
+### R1D24
+
+✨Looks like I have a fixed routine now.
+In React ⚛️:
+🚩 Created a Reviews Slider Project!
+🚩 The Slider is completely based on the useState hook and the inline onClick function in JSX.
+🚩 It also has a 'Surprise Me' button to provide a Random Review when clicked.
+🚩 The Random function is made using vanilla JS logic of using Math.random() multiplied by length of the array of reviews and that value is rounded off using Math.floor() to return a properly rounded of Random Integer Value which gives the random review.
+
+🌊 Talks/Livestreams:
+🍀 Fireside Chat with @siddharth_hacks & @iamspathan on Hackathon and Communities by @codingblocks!
+It was an amazing talk, ended up learning about:
+🚩 How to find more Hackathons and Opportunities & "Grab the suitable ones with the right mindset"
+🚩 How to engage more with the community.
+🚩 How to work on content and share it to provide value to the community which will in turn help you work on your skills as well.
+🚩 Growth & Impacts of Hackathon.
+🚩 Perks of participating in a Hackathon.
+🚩 Everyone can participate in a Hackathon, since it is very inclusive!
