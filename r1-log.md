@@ -306,3 +306,207 @@ It was an amazing talk, ended up learning about:
 🚩 Growth & Impacts of Hackathon.
 🚩 Perks of participating in a Hackathon.
 🚩 Everyone can participate in a Hackathon, since it is very inclusive!
+
+### R1D25
+
+✨Another amazing day.
+(Today was a super long day, but nevertheless super amazing and lots of value, so bear with me folks!)
+
+In React ⚛️ :
+🚩 Worked on a Tabs Project that displays different resumes of people.
+🚩 The project was fairly simple with a few challenges.
+🚩 What took the most effort was the logic for switching of active class on the tabs that were clicked using useState hook.
+
+🌊Talks/Livestreams:
+🍀 Planning & Building a Restful API using NestJS for the community data livestream by @eddiejaoude.
+🚩Even though I had 0 idea about NestJS I joined in and it was super fun because I got to learn a lot about it,since I would also google stuff when we got stuck on a issue & that led to learning about it. (Also got a few green squares on GitHub)
+
+🍀The Campus DevRel Show by @githubeducation hosted by- @yashovardhanagrawal, @putrevu.aravind & @siddharth_hacks.
+🚩 The talk was super insightful because it included talks about how to enhance Developer Engagement on social media.
+🚩 The future of developer community clusters now that everything has shifted online.
+🚩 Opportunities for students in the Developer Community Space.
+
+🍀 @hashnode BootCamp on Several Revenue Models for Software Engineers by @hacksultan
+🚩 Ways to get started with gigs/Freelancing
+🚩 Problems faced by creators/devs when stepping into the revenue making space.
+🚩 Different ways to monetize your content.
+
+If you've read this far, and are interested to see these amazing talks for yourself do the following and checkout:
+
+👉@eddiejaoude's YouTube Channel
+👉@githubeducation on Twitch
+👉Join @hashnode BootCamp by joining the Discord Server.
+
+### R1D26
+
+✨ 𝐀 𝐁𝐫𝐞𝐚𝐤 𝐟𝐫𝐨𝐦 𝐂𝐨𝐝𝐢𝐧𝐠!
+
+🚩 I decided to take a Break and give myself some time to consolidate what I had learnt so far, although to avoid losing touch to my daily routine I tuned in to talks by some of my favourite people.
+
+🌊Talks/Livestreams :
+
+🍀𝐀𝐧𝐨𝐭𝐡𝐞𝐫 𝐑𝐞𝐜𝐨𝐧𝐧𝐞𝐜𝐭 𝐒𝐞𝐫𝐢𝐞𝐬 by @github @githubeducation hosted by @juanpflores\_\_ & Github Campus Expert Alumni @a_harshil
+Certain Takeaways -
+🚩 How to write a talk proposal for a conference
+🚩 Dealing with the infamous Imposter Syndrome
+🚩 Content Creation in terms of Blogs, Videos, Livestreams and discussing the pros and cons of the same.
+🚩 The Importance of Documentation
+🚩 Developing the skill of Public Speaking!
+🚩 How to Improve on topics like Content Creation, CFP writing, Public Speaking and many such topics.
+
+🍀 #𝐈𝐆𝐋𝐢𝐯𝐞𝗪𝐢𝐭𝐡𝐒𝐢𝐝 𝐄𝐩 𝟏: '𝐇𝐢𝐝𝐝𝐞𝐧 𝐑𝐞𝐚𝐥𝐢𝐭𝐢𝐞𝐬 & 𝐏𝐫𝐞𝐬𝐬𝐮𝐫𝐞𝐬 𝐎𝐟 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐢𝐞𝐬'
+by @siddharth_hacks & @adityaoberai1
+A Talk that I personally related with & hit hard for me.
+🚩 Another mention of the omnipresent Imposter Syndrome and how to deal with it.
+🚩 How to deal with certain expectations & external pressure from your peers, and also other members of the community.
+🚩 Time Management to achieve a perfect balance between work and personal time.
+🚩 The Importance of Denying someone or saying NO, when the situation calls for it.(Personally Bad at this one)
+🚩 How to handle situations where you're taken for granted.
+🚩 Politics in some of the communities stunting personal growth of people part of that community.
+🚩 And Much More.
+
+🍀@bitddsc 𝐱 𝐄𝐝𝐝𝐢𝐞𝐇𝐮𝐛 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐂𝐚𝐥𝐥 by @eddiejaoude & @carrycooldude
+Got some of my own queries solved by the speakers.
+That has really got me thinking since then, takeaways:
+🚩 The Process of Building a Community is A Marathon & not a Race!
+🚩 When building a Community promote the community by inculcating leadership traits in them, and allowing them to grow as well.
+🚩 Join various communities and gain experience from all of them.
+🚩There is no right skillset required to contribute in a community and any contribution is welcome!
+
+### R1D27(14th April)
+
+✨Back on Track?
+
+🚩 I wasn't really feeling well, & slept throughout the day to feel better, & thought of continuing with React from tomorrow, but since I started to feel a little better around evening, I decided it was time to listen to some amazing talks.
+
+🌊Talks /Livestreams :
+
+🍀' How To Find a Good Hackathon?' |
+by @siddharth_hacks on YouTube Livestream.
+🚩 Started with what exactly is a Hackathon?
+🚩 Perks of Participating in a Hackathon?
+🚩 Team-Building in a Hackathon
+🚩 Meeting new People during a Hackathon
+🚩 Tips/Tricks to Find a Good Hackathon using certain resources.
+🚩 ALL of the resources mentioned to find a Hackathon are as follows:
+
+---
+
+🔹MLH
+🔹Devpost
+🔹Devfolio
+🔹HackerEarth
+🔹GitCoin
+🔹AngelHack
+🔹Skillenza
+🔹HackClub
+🔹IncubateIND
+
+🚩All of the above mentioned resources on googling, The very 1st link that shows up takes you to their respective website that will help you find amazing Hackathons.
+
+🍀#TechTable Twitter Spaces hosted by @rkulidzan, @eddiejaoude & @\_elletownsend on 'Open Source & Open Learning'
+
+Things to Remember :
+🚩 While maintaining an OS Project make sure that the projects passes all checks & is up to community standards by clicking on the insights tab in a repo.
+🚩 Maintainers should make extensive use of Issues & Pull Request feature in their OS Project.
+🚩While Contributing to an OS Project make sure to go through the Contributing.md File to match the maintainers requests.
+🚩 Contribute to a project along with a buddy or friend to make it easier.
+🚩 Keep the Pull Requests to the Project Consistent.
+🚩 Contribution to the project is not restricted to Technical matter, & can be made in form of Documentation/Writing.
+(The 3rd slide is custom made by me to fit the theme of TechTable!)
+
+🍀 @hashnode BootCamp on Building an Effective Developer Portfolio by @anniebombanie
+
+🚩 Customization /Design of a Developer Portfolio.
+🚩 Do's and Dont's to keep in mind while creating a Portfolio.
+🚩 Inclusion of Social links.
+🚩 Footer & Contact Form in a Portfolio.
+🚩 Working on look of the Portfolio that would immediately catch the eye of a Recruiter.
+
+### R1D28
+
+✨ Making Improvements!
+
+💻Learnings/Work:
+🚩 Researched on how to make a good Github Profile Readme.
+🚩 Updated my Github Profile Readme!
+🚩 It isn't the best version but I plan to keep updating it frequently.
+🚩My profile link is in bio, do check it out and--->
+
+💬 IF ANYONE HAS ANY FEEDBACK OR INPUT I WOULD LOVE TO HEAR FROM YOU!
+
+In React ⚛️ :
+🚩 Started learning about forms in React.
+🚩 Controlled Form Inputs.
+🚩 Multiple Form Inputs.
+🚩 Started working on a Lorem-Ipsum Generator using forms.
+
+🌊 Talks/Livestreams:
+
+🍀 Maksim Ivanov's TwitterSpaces with @eddiejaoude & @dthompsondev
+🚩 Talks on Communities in General.
+🚩 How to form a community.
+🚩 How to maintain & moderate a Community.
+🚩Rules to be followed in a Community.
+🚩Ways to keep communities safe.
+🚩Ways to involve the community members themselves, so that the community is a safe place and can thrive!
+
+### R1D29
+
+✨ OPEN SOURCE!❤️
+
+In React ⚛️ :
+🚩 Made a really beautiful color generator, that creates 10 tints and shades of the Hex code of the color specified in the input bar.
+🚩 Probably made use of everything I learnt so far-Hooks, Forms, Try Catch Block, and A new Javascript library.
+🚩 Used the values.js library to create the colors.
+
+🌊 Talks /Livestreams :
+🍀 Getting Started with Containers using Azure by @carrycooldude hosted by
+Azure Developer Community.
+🚩Basics of Azure and Containers.
+🚩 Docker flow diagram consisting of Docker Hub and Docker on the Net.
+
+🍀 101 on how to get your organization started with Open Source, live on LinkedIn by @eddiejaoude & @github
+🚩 ALL THINGS OPEN SOURCE!
+🚩 How to get Started?
+🚩 Some misconceptions with open source.
+🚩 Community involvement in Open Source.
+🚩 Best Practices while Maintaining & Contributing to an Open Source Project!
+(Also caught @nhcarrigan giving EddieHub a shoutout on the live!)
+
+🍀@hashnode BootCamp by @samsongoddy on Growing with Open Source.
+🚩 Some of the major points overlapped with Eddie's talk and further proved the good that comes with Open Source when two of the best agree on certain points.
+🚩 How to make contributions without getting overwhelmed or intimidated by a repo.
+🚩 Always check the Contributing.md file before contributing.
+🚩 Mentioning of Open Source contributions on other platforms such as LinkedIn
+🚩 GSOC & GSOD
+
+### R1D30(17th April)
+
+✨ 1 MONTH COMPLETED ! ✅
+
+in React ⚛️ :
+🚩 Started building a Grocery List App.
+🚩 The App is made using just 2 basic hooks useState and useEffect.
+🚩 And also the frequently used array methods as well.
+🚩 I still have to add the feature where the items added are stored in localstorage so that even after the page refreshes the items in the list will persist.
+
+🌊 Talks/Livestreams :
+🍀 #HackitWithSid - True Essense Of A Hacker Mindset & Experience hosted by @siddharth_hacks & @shivi_enigma
+The True Hacker Mindset involves:
+🚩 Empathy to problems
+🚩 Trying out different things
+🚩 Enthusiastic & Creative, Be eager to learn something new everytime.
+🚩 Have innovative solutions.
+🚩 Be open to suggestions & opportunities.
+🚩 Trial & Error Method of Learning.
+🗣️Questions Answered :
+🔹What inspired you to become a Hacker?
+🔹Challenges faced in Hackathons?
+🔹How to face failure?
+🔹How to surround yourself with people with same mindset?
+
+🍀 #FlutteristasConf2021 hosted by the Flutteristas group. @flutterista
+🚩 Got to learn a lot about flutters new features.
+🚩 Made some apps.
+🚩 Took part in the mini challenges that occurred throughout the event! 🎉
