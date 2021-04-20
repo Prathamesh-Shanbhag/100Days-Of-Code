@@ -529,3 +529,62 @@ It was a really amazing session and we had talks on topics such as:
 🚩 How Hackathons help you develop new ideas and boost creativity
 🚩 How to manage time during Hackathons.
 🚩 And everything else you could possibly imagine related to Hackathons!
+
+### R1D32
+
+✨ Back To Back Talks!
+
+⚛️In React :
+🚩 Completed the Grocery List App with edit functionality option added so items in list can be edited.
+🚩 I plan to start doing more but college work is lagging behind so I am managing on two fronts, hence I feel my progress is slowing down now.
+
+🌊 Talks /Livestreams :
+
+🍀 The Campus DevRel Show by @githubeducation @github hosted by @yashovardhanagrawal & amazing guests @nikita.gandhi01 & @carrycooldude
+The talk involved :
+🚩 Beginners or Freshers entering into the DevRel space.
+🚩 The Importance of Experience before getting into DevRel.
+🚩 Behind The Scenes of the DevRel Post.
+🚩 Ways to keep people motivated for no-perk roles.
+🚩 Road map to get Experience needed to get into DevRel
+🚩 Public Speaking and Contributing to Communities.
+
+🍀 Reviewing Open Source Projects and getting some Green-Squares! 🟩 - with @eddiejaoude
+Being a part of these Streams has become my daily routine and I wouldn't have it any other way because it's way too amazing! (Caught Eddie in a Perfect Pose for the click)
+🚩 Reviewed some Open Source Projects and GitHub Profiles with Eddie.
+🚩 Got to learn a lot about the issue labels structure and made a PR to the repo adding the live stream label.
+🚩 Contributed to the community by leaving comments and adding issues to repos reviewed by Eddie.
+
+It made me reallyyy happy to see that the stream crossed all boundaries and had a 100 + likes and around 80 concurrent viewers! ❤❤
+I hope that this happens every other time Eddie Streams!
+
+### R1D33
+
+✨ REACT NO MORE? 😱
+
+❗Hey everyone! This is for anyone who is working on a particular language or framework, and then starts facing problems like saturation and feeling like your progress slows down!
+
+👉What worked for me:
+I take a break first and then maybe switch to something else that is on my list of things to learn!
+Which is why I have switched to learning Python! 🐍 ❤️
+And then maybe switch back to your initial language when your brain has had some rest and cool down from seeing the same topic or language.
+
+The Resources that I am considering to start Python on and I would recommend others who are starting out as well are:
+🔹 @datacamp
+🔹 @freecodecamp
+🔹 @udemy
+🔹 @coursera & finally
+🔹 @youtube
+
+🌊Talks/Livestreams :
+🍀 #IGLiveWithSid - Leveraging Communities The Right Way!
+with @siddharth_hacks & @aanchalmishra\_\_
+Certain Takeaways :
+🚩 Reflect on what is the Purpose /Inspiration to Join or even start a community!
+🚩 Give Back to the Community without expecting anything in return!
+🚩 Don't feel afraid to ask anything to someone who is more experienced than you.
+🚩 Talks on tackling the omnipresent 'Imposter Syndrome'
+🚩 Never Compare your progress to someone else's.
+🚩 Always stay grounded and be open to learning from others
+
+It was a pleasure hearing Aanchal speak about this topic because the experience really showed the way she spoke & I admit I definitely learnt something crucial during this talk!
