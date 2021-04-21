@@ -588,3 +588,44 @@ Certain Takeaways :
 🚩 Always stay grounded and be open to learning from others
 
 It was a pleasure hearing Aanchal speak about this topic because the experience really showed the way she spoke & I admit I definitely learnt something crucial during this talk!
+
+### R1D34
+
+✨ A New Start!
+
+💻Learnings/Work:
+🚩 I decided to start Learning certain
+ML/AI concepts while I was learning Python, because the ML sector is very interesting to me.
+I might also venture into looking at TensorFlow.js, since I love working with Javascript.
+
+🌊 Talks/Livestreams:
+
+🍀 TwitterSpaces - On Taking the Leap Career Switching with Rebekah & other amazing speakers like @anniebombanie, @brendamichellle, @annajmcdougal
+The talks involved :
+🚩 How to make a switch from non-tech to tech field & tech to another tech field as well.
+🚩 Best Practices when switching careers.
+🚩 Knowing One's limitations and certain other aspects when stepping into a new field.
+🚩 In a tech job asking managers to pair you up with someone more experienced to help you out.
+🚩 The Struggles faced by people when switching careers
+🚩 Time Management!
+
+🍀 Live Code Along and AMA with @DThompsonDev by @pluralsight
+#FreeApril
+🚩 Refreshed some concepts about building websites with HTML, CSS & Javascript!
+
+🌟 🚩 I asked Danny a question on Android Development (As visible in the Image) and how Android has more advantages over cross platform frameworks like Flutter?
+👉The Answer is- Even though cross platform development like Flutter, Ionic is booming but Pure Android Development is here to stay because companies hire developers only with Pure Android Development and are in huge demand as well. 💯
+
+🍀Do's & Don'ts of a Hackathon & Hackathon Key Points by @siddharth_hacks
+🚩 Certain Do's:
+🔹Think of an Idea ponder on it before deciding on a Tech Stack to Build it.
+🔹Observe Patience, Manage Time & Priortize Tasks.
+🔹Team Building :Try to work with different people every time to widen horizen of Experience.
+🔹Prepare certain stuff before-hand to avoid last minute disaster.
+🔹Train in Soft skills to make a good demo video & elevator pitch for your Hackathon project.
+
+🚩Certain Don'ts:
+🔹Don't Copy a Hackathon project off Github / or use an old project.
+🔹Don't Work around the clock without rest which will decrease productivity during a hack.
+🔹Do not repeat the same mistakes of a previous Hackathon.
+🔹Do not pitch the existing solution of a product/seek a market ready product.
