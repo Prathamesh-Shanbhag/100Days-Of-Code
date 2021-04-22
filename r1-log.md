@@ -629,3 +629,38 @@ The talks involved :
 🔹Don't Work around the clock without rest which will decrease productivity during a hack.
 🔹Do not repeat the same mistakes of a previous Hackathon.
 🔹Do not pitch the existing solution of a product/seek a market ready product.
+
+### R1D35
+
+✨ Python is amazing!
+
+In Python 🐍 :
+🚩 Started learning about Variables and Types
+🚩 Variable Assignment
+🚩 & Finally Calculation using variables.
+
+🛠️Under Machine Learning :
+🚩 Intro to ML.
+🚩 Logistic Regression and how it works!
+
+📝 These are some really notes heavy subjects/concepts, so anyone who's learning make sure to take notes or you'll forget some stuff later on!
+
+🌊 Talks/Livestreams:
+
+🍀 Introduction to Cloud Computing with Azure! by - @aanchalmishra\_\_
+Some topics discussed in brief :
+🚩 What is a Cloud?
+🚩 Types of Cloud
+🚩 Benefits of Cloud Computing
+🚩 Learning the Azure Portal
+🚩 A Tour of the Azure Services provided.
+
+🍀DevConnect 4.0 by with @adityaoberai1
+We spoke about a lot of stuff!
+(Sorry if I couldnt interact too much since I had other work going on as well!)
+Nevertheless it was amazing hearing about stories of:
+🚩 Being an @mlhacks Coach
+🚩 Winning the Microsoft Imagine Cup (@teamcodecapture)
+🚩 Some talks about tech conferences and a lot of Aditya's Achievements :P, which only made me realize I should've probably started coding and learning sooner.
+🚩 ALL the swags that he has collected!
+🚩 Also another important topic was how .NET is still really huge as an enterprise level language over other languages such as Node.js.
