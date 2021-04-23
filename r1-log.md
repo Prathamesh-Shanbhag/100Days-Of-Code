@@ -664,3 +664,36 @@ Nevertheless it was amazing hearing about stories of:
 🚩 Some talks about tech conferences and a lot of Aditya's Achievements :P, which only made me realize I should've probably started coding and learning sooner.
 🚩 ALL the swags that he has collected!
 🚩 Also another important topic was how .NET is still really huge as an enterprise level language over other languages such as Node.js.
+
+### R1D36
+
+✨ Achievements all Around!
+
+💻Work:
+🔹I became an @hashnode Ambassador!
+🚩 Since one of the perks Ambassadors get is adding Custom CSS to their blog, I got to work and customized my blog page!
+🚩 I was also the top referrer of the day & was featured on their page!
+🚩 I plan to write some really cool blogs soon so stay tuned!
+
+🌊Talks/Livestreams:
+🍀 Building a Discord Bot using Nest.js - Pair Programming! With @eddiejaoude
+🚩 I might have mentioned this quite a few times but these sessions are always amazing and insightful!
+🚩 I learnt about two new JS libraries, Nest and Alex!
+
+🍀Elevate with Google Developers(@googledevs) hosted by Kubra Zengin with recruiters for Google- Stephanie Canella & James Adams.
+Thanks to @dthompsondev for recommending me this!
+Certain Takeaways:
+
+🔹 Stephanie spoke about Compensation & Negotiations at the company you work for and how advocate for yourself and get the best compensation package.
+🚩 Things to consider when compensating like experience, scale of work unique skills you have.
+🚩 Do your Research
+🚩 Identify what you want and then reflect on it.
+🚩 How to deal with getting rejected.
+
+🔹 James spoke about Preparing for Interviews!
+🚩 Segmenting or Dividing your approach
+🚩 Updating your LinkedIn and Resume regularly.
+🚩 Prepping and Studying with Practice Questions and Mock Interviews
+🚩 STAR/CAR approach during the interview (refer video for this one)
+
+🚩The Q&A session for both speakers was also super insightful I look forward to more such events in the future!
