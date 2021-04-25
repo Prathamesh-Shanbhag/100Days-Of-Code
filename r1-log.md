@@ -697,3 +697,52 @@ Certain Takeaways:
 🚩 STAR/CAR approach during the interview (refer video for this one)
 
 🚩The Q&A session for both speakers was also super insightful I look forward to more such events in the future!
+
+### R1D37
+
+✨ Achievements + Conference = Perfect Day!
+
+💻Work:
+🎉Got Selected as A Mentor for RU HACKS (@ruhacks) coming up next weekend!
+
+🌊Talks/Livestreams:
+
+🍀 #HackitWithSid Journey to Web Development with @shruti_balasa_thirus hosted by @siddharth_hacks
+🚩 Another amazing livestream, got a lot of insights on Web Dev which is my favourite tech topic!
+🚩 Motivation for learning Web Dev
+🚩 How Web Dev gives an instant dopamine hit because after adding just few lines of code we can see the results on the localhost!
+🚩 Learning from tech communities!
+🚩 You can never learn a language completely so don't stress out for not knowing something you learnt recently!
+🚩 Thirus and the meaning behind this name! (Shruti's YouTube Channel and also an anagram of her name!)
+Thank you Shruti for sharing your journey!
+
+🍀 Global AI Student Conference by @globalaicommunity & hosted by Microsoft Learn Student Ambassadors like @adityaoberai1, @kunalsig, @vedant_bahel & the one and only @imaginepablo
+🚩 I absolutely loved the Conference!
+🚩 I cannot stress enough on how value packed this conference was, I was learning something new every hour!
+🚩 Learnt a lot about Azure & it's services, so much so that I am taking part in the #aiconference Cloud Skill Challenge.
+🚩 I got cleared with concepts like How to get Started with Machine Learning & other related tech in that field.
+🚩 Learnt a lot about Azure & how versatile it is and it's services are being used to solve real world problems!
+
+🚩 The AI Cafe was super innovative & loved the idea that you could talk to speakers after the session. (Popped in quite a lot of times throughout the day too!)
+🚩 What I REALLY loved about the session was there were ASL interpreters who used sign language that kept inclusivity at a maximum!
+
+🚩 Also Learnt a lot about the MLSA program, like what is it, the vision, & how it has affected the lives of the students who are a part of it!
+🚩 Someone who is really very passionate about tech has the opportunity to become a part of this program!
+🚩 I really look forward to applying soon, but until then I will try to improve some skills that are deemed necessary for the program!
+🙌Special Thanks to the ASL Interpreters & hosts, that worked super hard throughout the session! ❤
+
+### R1D38
+
+✨ Getting to know Python much better!
+
+In Python 🐍 :
+🚩 Learnt about Lists and Manipulating lists
+🚩 Learnt about Functions and Methods (Very similar to Javascript! )
+🚩Learnt about packages and their uses in short like
+🔹numpy - Numerical Python Package
+🔹matplotlib - Data Visualization Package
+🔹scikit-learn - Machine Learning Package
+🚩 And worked on some exercises to get familiar with it!
+
+🌊No Talks/Livestreams Today! 😱
+For the first time in a long time, I did not attend any events! Also gave a break to all the people I constantly keep tagging, with the only hope that they don't mind. :P
