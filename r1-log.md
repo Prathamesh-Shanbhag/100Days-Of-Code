@@ -746,3 +746,50 @@ In Python 🐍 :
 
 🌊No Talks/Livestreams Today! 😱
 For the first time in a long time, I did not attend any events! Also gave a break to all the people I constantly keep tagging, with the only hope that they don't mind. :P
+
+### R1D39
+
+✨More Python and an Amazing Talk!
+
+In Python 🐍 :
+🚩 Worked specifically on the numpy library and how to use it with arrays.
+🚩 Importing library with shorter references using 'AS' keyword.
+🚩 Partial Importing of only specific methods from Libraries.
+
+🌊 Talks/Livestreams :
+🍀 The Campus DevRel Show EP04: The Power of Open-Source in your Dev-Rel Journey by @githubeducation hosted by @yashovardhanagrawal & amazing guests @eddiejaoude & @siddharth_hacks
+
+Topics of the Talk :
+🚩 Stepping into DevRel Space with and without Freelancing experience.
+🚩 Open-Source and how to make your first contribution!
+🚩 The Hackathon journey and culture!
+🚩 The Correct ways to ask help from someone.
+🚩 Improving Communication Skills which are super important in the job market.
+🚩 Also spoke about #EddieHub and how to get involved with the community.
+
+🌟🚩 The last & most important point of "GETTING STARTED" no matter where you are in your journey, write blogs, make videos, learn something new & share, but just Get Started!
+
+### R1D40
+
+✨ Slowly getting into a Fixed Routine!
+
+In Python 🐍 :
+🚩 Dove deep into Numpy Python Libraries & Arrays (They accept only one data type, if others are present they get converted to same data type - Called as TypeCoercion.)
+🚩 Worked with certain numpy methods like mean, median, sum, sort, max, std, corrcoef.
+
+🌊 Talks/Livestreams :
+🍀 #IGLiveWithSid :E3 - 'Understanding the Student Program Mindset' hosted by @siddharth_hacks & @khattakdev
+
+Some points:
+🚩 Always have the right mindset while applying.
+🚩 A very important skill is leadership.
+🚩 Always be ready to help someone in general , and help them grow.
+🚩 You should be really passionate about technology, because you will be representing the organization.
+🚩 For Freshers, start by joining local communities like GDGs and Facebook Developer Circles.
+
+Some Benefits :
+🚩 You gain exposure and a chance to network and meet new people.
+🚩 As always swags might come your way if you have the right mindset!
+🚩 You also gain access to help on any topic, because of the large volume of Experienced people in the student program.
+🚩 You can connect with employees that can give you insights on your resume!
+🚩 🌟A sure shot way to get accepted is to start getting involved with the community and contributing to it!
