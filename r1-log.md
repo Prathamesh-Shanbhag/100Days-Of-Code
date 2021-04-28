@@ -793,3 +793,35 @@ Some Benefits :
 🚩 You also gain access to help on any topic, because of the large volume of Experienced people in the student program.
 🚩 You can connect with employees that can give you insights on your resume!
 🚩 🌟A sure shot way to get accepted is to start getting involved with the community and contributing to it!
+
+### R1D41
+
+✨ Going Above & Beyond!
+
+In Python 🐍 :
+🚩Didn't do much today just, started working with the matplotlib library and got to know about methods like plot(), scatter() and so on.
+
+🌊Talks/Livestreams:
+
+🍀 @mlhacks Fellowship Application 101 hosted by @siddharth_hacks & @khattakdev
+
+Some key points:
+🚩 Like I mentioned in my previous posts, The Right mindset & proper environment is required while filling out the form.
+🚩 Clearly decide what track is most suitable for you.
+🚩 Make sure the code sample you submit shows some of your best works & you know what is in the code.
+🚩 Make sure the project you submit has good number of 'Quality' commits, the code should be readable & well structured, finally it should have proper documentation as well.(Readme File.)
+
+🚩 Some other features to consider good use of Issues/Pull Requests, Github Actions & Test Cases as well.
+🚩 Make sure to take your time, write good & detailed essay answers.
+🚩 Also had a discussion on the new Production Engineering track introduced by MLH.
+(🤔Siddharth didn't submit that project, but I wish he did just because I was really curious. 😂)
+
+🍀 I went back & revisited certain streams that were super insightful & I needed some guidance so I went through the entire stream again and jotted down some points to help me out!
+
+🍀FailOverConf' 2021!
+🚩 It was an absolutely amazing conference!
+🚩 The speakers were amazing, got to know a lot about chaos engineering & observability.
+🚩 I actually ended up staying up till 5am in the morning listening to the talks & taking part in trivia quizzes by PagerDuty Team!
+🚩 Got the third position overall!
+
+👉I am also planning to make certain videos not immediately but in the near future! (Probably on YouTube, not really sure though!)
