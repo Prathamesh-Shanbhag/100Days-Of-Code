@@ -825,3 +825,34 @@ Some key points:
 🚩 Got the third position overall!
 
 👉I am also planning to make certain videos not immediately but in the near future! (Probably on YouTube, not really sure though!)
+
+### R1D42
+
+✨ Unproductive day in terms of Coding!
+
+⚡TLDR:Took a Break, But Attended a few talks!
+
+🚩 Forgot to mention that I had a On boarding meeting for mentors @ruhacks , which was pretty late at night!
+🕔 I have been staying up late almost daily, up until 5am constantly doing something be it coding or completing the courses, looking for new opportunities!
+
+😪 Which has ultimately led me to become a little sleep deprived, hence decided to take a Break today & tomorrow and will be back in full swing thereafter!
+🌟 This is actually going to be the simple rule I will follow if I think things are getting overwhelming!
+
+Regardless I still couldn't miss out on-
+
+🌊 Talks/Livestreams:
+
+🍀 DevConnect 5.0 with the Organizing team of HackOn 2.0 - @_.\_khushi.sharma_.\_
+, @siddharth_hacks & @adityaoberai1 🚩 I think it is pretty clear at this point that these sessions are amazing & probably something that should never come to an end.
+🚩 Had a really cool discussion on topics of LinkedIn & everyone sharing their achievements and not getting overwhelmed by it, rather learning from it.
+🚩 Everyone is on their own journey, you will have help along the way, & it might take time but you will reach your goals ultimately!
+🚩 ALL I can remember about the rest of the Talk is discussion on swags. 🤣
+#Khushiforswags &
+#SupportKhushi
+
+🍀 GDG San Francisco Summit 2021
+@gdgsanfrancisco
+🙏First I would like to thank @DThompsonDev for sharing about this event!
+🚩 This talk was really awesome & jam packed with value as it had a lot of speakers and their own insights on really vast topics!
+🚩 The topics included a career in tech without a degree, writing amazing blog posts with good reach, taking notes in a really cool way(sketchdocs)
+🚩 It was a really amazing conference & there was a giveaway at the end, which I did not win but I don't have any regrets because I genuinely enjoyed the talks! ❤
