@@ -856,3 +856,24 @@ Regardless I still couldn't miss out on-
 🚩 This talk was really awesome & jam packed with value as it had a lot of speakers and their own insights on really vast topics!
 🚩 The topics included a career in tech without a degree, writing amazing blog posts with good reach, taking notes in a really cool way(sketchdocs)
 🚩 It was a really amazing conference & there was a giveaway at the end, which I did not win but I don't have any regrets because I genuinely enjoyed the talks! ❤
+
+### R1D43
+
+✨ Another Rest Day.
+
+🎥 Watched a movie for the first time probably after months, and took rest just to give some relief to my eyes from the digital strain.
+👀 (For curious people it was Demon Slayer:Mugen Train, hands down best 3D animation, and probably best movie of the decade in that field)
+
+🌊 Talks/Livestreams:
+🍀Databases: SQL v/s NOSQL - #TwitterSpaces hosted by @eddiejaoude
+
+🔴I recorded the session for about a good 2 hours until my battery ran out, & I joined the space with another device asap.
+Some major highlights:
+🚩 Talks on Databases in General
+🚩 Starting with what are Databases
+🚩 History of databases which was something I didn't know myself!
+🚩 Types of Databases
+🚩 The differences, pros & cons of a SQL & NOSQL database.
+🚩 Talks on Graph Databases which was another thing I was unfamiliar with.
+🚩 Certain database systems to avoid because of flaws.
+🚩 Database systems with good analytics and more such topics!
