@@ -877,3 +877,57 @@ Some major highlights:
 🚩 Talks on Graph Databases which was another thing I was unfamiliar with.
 🚩 Certain database systems to avoid because of flaws.
 🚩 Database systems with good analytics and more such topics!
+
+### R1D44(1st May)
+
+✨ Getting back into flow!
+
+🛠️Projects:
+🚩 Started working on a Javascript Full stack application using-
+React, Node-Express, Redis & Deployment using DO Droplet.
+🚩 Will share my progress on this soon!
+
+🌊 Talks/Livestreams :
+🍀 #HackitWithSid Livestream on 'When Startup Intersects with Community Goals' by @siddharth_hacks & @cherishsantoshi
+Key Takeaways:
+🚩 Three main reasons people join a Community-
+Appreciation, Validation & Learning.
+🚩 Empathy is necessary to thrive in a community.
+🚩 There has to be a vision that all the community members strive to achieve.
+
+🔹Startup x Community :
+🚩 Communities can be a boon for startups.
+🚩 It will organically grow your startup(Community- led growth)
+🚩 They can act as the user base of your product, & also feedback chain for the same.
+🚩 In Hackathons - Build with Diversified Team, Think like a Founder, Give proper metrics.
+🚩 Projects are grown into startups usually from Hackathons as well.
+
+🍀API Development 101 with @ialimustufa using Postman hosted by HackOn.
+Key Learnings/Takeaways :
+🚩 An Introduction to API's
+🚩 Analogy of API's compared to a Restaurant where the waiter(middle-man) is the API and the customer is client & cook is the server.
+🚩 The API's can be Hardware/Public/Private.
+🚩 API's as software version of lego blocks.
+🚩 What is Postman and How it works in making /testing of an API.
+
+🔹Under Requests:
+🚩 API Request Methods-GET, POST, PUT, DELETE.
+🚩 Endpoints-Typically URLs used for communication to the API.
+🚩 Path-The different channels through which the API is accessed.
+🚩 Parameters/Header & Body- Specific Query Requests & Format like JSON or XML.
+
+🔹Under Responses:
+🚩 Status Codes-Like 200,400,404 etc.
+🚩 Headers & Accessing the Body Data.
+🚩 How Postman is unique & provides a platform for the collaborative working on APIs.
+🚩 Working on Workspaces in postman using API methods to access certain data on books & finally learning about authorization like OAuth 2.0 & API Keys as the most commonly used.
+#PostmanStudent
+
+🍀Moderated a session by @hack_the_mountains, & learned at the same time-Workshop on Blockchain Development by Sarthak Kundra.
+🚩 A very simple and basic introduction to Blockchain & Cryptocurrency
+🚩 Learnt about Decentralized Platforms & how it works.
+🚩 Web3 & it's role in this Decentralized form of the internet
+🚩 Tools to make the same - like Solidity, Web3 SDK etc.
+🚩 What is an NFT?
+🚩 Selling of art on these Decentralized Platforms because of their uniqueness.
+🚩 Resources to get Started with Blockchain development like: 🔹CryptoZombies.io,Remix.ethereum.org, & an article by @i_am_nader on the guide to complete fullstack ethereum development.
