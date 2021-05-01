@@ -1902,16 +1902,57 @@ n Machine Learning ⚙️:
 
 ### R1D75(01 June)
 
-### R1D75(02 June)
+✨3/4th Challenge Complete!
 
-### R1D76(03 June)
+🚩Took a Much Needed Break after a very buzy continuous two weeks! ❤
+🚩That said I couldn't miss out on one of my favourite shows that Airs every Monday!
 
-### R1D77(04 June)
+🌊 Talks/Livestreams :
 
-### R1D78(05 June)
+🍀 The Campus DevRel Show by @GitHubEducation hosted by @yashovardhan & guest speaker @Mary Thengvall!
+Some Really Amazing Insights:
+🚩 Does having a background in management have an advantage over background in tech?
+🔹Not really, but what people might look at is your problem solving abilities, and if you are empathetic & can relate to the problems people are facing?
 
-### R1D79(06 June)
+🚩 Are there any University degree courses which helps developing skills for DevRel Roles?
+🔹No there isn't but what can be done is attending meetjups, look into open source projects, experiment and look into if it is something you want to get it.
+🚩 If you don't have much technical knowledge what can be done?
+🔹Have good knowledge about your own product, & have the ability to show it to others too, and Be tech-savvy, if there ever is a question you come across that you don't know about, you should know of the right person to refer who knows about it!
 
-### R1D80(07 June)
+🚩Is there a role that has a good mix of DevRel & Developer role?
+🔹 Developer Advocate roles with companies having a having a larger team will be more suitable as good mix between DevRel & A Developer!
+🚩 How to know what kind of content structured or unstructured the audience would like to consume?
+🔹 The answer is Trial & Error, experiment & find out what content your audience would want to consume!
 
-### R1D781(08 June)
+🚩How often do we reuse the content or update the content with new info?
+🔹The best way is not too often & not too less, but just the right spot of resuing content is super important.
+🔹 Just updating portions that have highest traffic is the best way to go about it!
+🚩 Being a Student the right approach to get into DevRel Space?
+🔹 Best way is to get involved in the community & see the different roles and see what it is you like to do most.
+
+🚩 Ways to priortize tasks since there are so many things one can do?
+🔹 Best way is to learn to say no, and priortize what will give you most value if you commit to it.
+🚩 Ways one can develop skills necessary to take up these roles?
+🔹Don't stick to your curriculum & take classes outside of your curriculum
+
+🚩 How to prepare for an interview & also what to do in an interview?
+🔹 Ask more questions chose role wisely, find people doing similar things ask about their experiences & hop on a call and
+🚩 Best Practices when cold messaging someone /asking for help when reaching out?
+🔹Don't start with just a Hi, but do your research about that person before messaging them!
+
+🚩 Always keep learning Never get to a point where you think you know everything about something, always stay open to learning, & Feedback from other members!
+🚩 The phrase that stuck in my mind even after the session was 'Learning Out Loud' & another Acronym that I added to my list was PEEP - Pause Examine Emapathize & then Propose!
+
+### R1D76(02 June)
+
+### R1D77(03 June)
+
+### R1D78(04 June)
+
+### R1D79(05 June)
+
+### R1D80(06 June)
+
+### R1D81(07 June)
+
+### R1D82(08 June)
