@@ -1945,6 +1945,44 @@ Some Really Amazing Insights:
 
 ### R1D76(02 June)
 
+✨ML + Trying out new stuff!
+
+In Machine Learning ⚙️ :
+🚩 As part of the Assignments of MLDLS : Worked on making a multiple Regression model using the same Dataset I used for Linear Regression.
+🚩 I also started working on Classification Model on a Dataset of Stars!
+🚩 The Algorithms I used were:
+🔹Logistic Regression.
+🔹KNN Classifier.
+🔹Decision Tree
+🔹Random Forest &
+🔹 SVM Classifier.
+
+🖥️ Work:
+🚩 For the first time ever I wrote a CFP Application!
+🚩 I wrote my CFP Application for MLH Hackcon & Tokyo Dev-RelCon Lightning Talk! ⚡
+
+🌊 Talks/Livestreams :
+I ran out of space while writing abut this event, so therefore writing about it here! ❤
+🍀 SAWO Vibe Check Ep- 4 | Monetising Communities with @sumita jetley & @kinnersacchdeva hosted by @CherishSantoshi
+Some Key Topics Discussed:
+🚩 Different Possibilities or Opportunities in the Community
+🚩 The Community can be a place of learning, a space where your voice is heard & hence one should learn to leverage this amazing opportunity.
+🚩 The engagement is authentic & the quality of content & curation goes up because of real organic members & Feedback!
+🚩 Great communities are built on the backbone of relevant content!
+🚩 Find the right niche before starting a community!
+🚩 Easy availability of online tools for managing, engaging & monetising communities have led to this revolution, where we would have gone all digital.
+🚩 Understand the persona & demands of the community.
+🚩 You have to research, read eavesdrop on community conversations related to the niche of your community, find out what common issues they are facing, & plug those holes.
+
+🚩 Top 5 tips for someone trying to build a community :
+🔹Understand your community.
+🔹Create relatable content, in different forms like videos, blogs or anything that works well with your community.
+🔹Have someone to help you moderate & lead the community since it is not possible to be done alone.
+🔹Also make sure to have a person build & maintain a calender, & keep constant communication atleast for the starting first month!
+🔹Stick to your deadlines.
+
+🌟 Key Advice: Choose a niche which you're passionate about & can speak on it for hours on end! Don't choose a niche because it's popular & gets more traction.
+
 ### R1D77(03 June)
 
 ### R1D78(04 June)
