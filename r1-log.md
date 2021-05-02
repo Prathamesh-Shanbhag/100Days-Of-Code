@@ -931,3 +931,23 @@ Key Learnings/Takeaways :
 🚩 What is an NFT?
 🚩 Selling of art on these Decentralized Platforms because of their uniqueness.
 🚩 Resources to get Started with Blockchain development like: 🔹CryptoZombies.io,Remix.ethereum.org, & an article by @i_am_nader on the guide to complete fullstack ethereum development.
+
+### R1D45(2nd May)
+
+Day:{45/100}
+✨ Just Coding Today!
+
+🛠️Projects:
+🚩 Worked on my Fullstack Javascript Project, Using the Create-react-app template!, I put up a very very basic frontend which I will work on later.
+🚩 The Project is a Entry Level Software Jobs Board App that I have named EasyApply.
+🚩 I am currently using an array of objects to display the mock jobs, which I will later connect to Github Jobs API, or StackOverFlow Jobs API to display the job.
+🚩Just learnt about CRON which is nothing but a 'JOB SCHEDULER' which will run the fetch part of the code after a fixed interval of times infinitely.
+
+🏗️The flow of the project :
+Jobs from API - - >Filter Algorithm - - >CRON Job - - >
+Store in Redis - - >Pull into API (Express) - - >Display on React Front-End Web-Page.
+
+🌊 Talks/Livestreams :
+😓No Talks or Livestreams Today !
+💪Got my daily workout in and called it a day!
+☁ KubeCon 2021 Starts tomorrow! ❤
