@@ -951,3 +951,96 @@ Store in Redis - - >Pull into API (Express) - - >Display on React Front-End Web-
 😓No Talks or Livestreams Today !
 💪Got my daily workout in and called it a day!
 ☁ KubeCon 2021 Starts tomorrow! ❤
+
+### R1D46(3rd May)
+
+Day:{46/100}
+✨ On a Productive Streak!
+
+🛠️Projects:
+🚩 Completed the really necessary parts like, Connected the Github Jobs API, implemented the filter algorithm to display the Jr. Dev jobs only!
+🚩 Connected it to the Redis DB using key - 'github'
+🚩 Added the fetch function for the Jobs that will be coming from the API
+
+🌊 Talks/Livestreams :
+🍀 The #CampusDevRelShow & Cracking the First DevRel Job by @a_harshil, hosted by @yashovardhanagrawal
+Topics:
+🚩 Resources for beginners to start coding like Freecodecamp & Udemy!
+🚩 Contributing to OS projects, & Learning Git & Github!
+🚩Always Apply to Internships using Projects with good readme's!
+
+🔹Developer Relations:
+🚩 Stepping into DevRel Space by being a part of various communities, maybe with the help of a senior
+🚩 It is not only professional networking, but building bonds with people, that can help you grow as a person too!
+
+🔹Applying to Programs:
+🚩 You can gain a taste of DevRel by being part of many programs that enable you to gain these experiences.
+🚩 While applying to them Never be afraid of rejections
+(My personal experience: I have received a lot of rejection mails from programs lately but that hasn't stopped me from doing what I do, because at some point you become immune to that feeling of getting rejected)
+
+🚩 If Rejected, move on to the next thing, & keep contributing to the community.
+🚩 If you fulfill 50% of the requirements definitely apply!
+🚩 Connect with people from mutual tech background or alumni & contact them preferably in 1 long detailed message only! (Not just Hey!)
+
+😂The personal interview & international trip stories were fun & made the stream really engaging & enjoyable!
+
+🍀Reviewing Open Source Projects & Getting some 🟩 with @eddiejaoude
+
+🚩 Reviewed some awesome projects/resumes that were submitted to the support repo of our EddieHub Org.
+🚩 In the end there was a giveaway by the community partner: HackOn Team & with one of their amazing organizing team- @_.\_khushi.sharma_.\_
+🚩 I was really happy when Eddie decided I was one of the winners in the giveaway for an issue I had created!
+🚩 I am definitely looking forward to more of such streams & Eddie's amazing upcoming course!
+
+### R1D47(4 May)
+
+✨A Balanced Day!
+
+🖥️ I don't have a multiple monitor setup so this is my fix, But I don't work this way, usually I minimize Spotify.
+
+😓 I couldn't post for quite a while because of college work & another really complex project involving Web Dev & Machine Learning to be implemented, I don't know how I'm going to do it with my teammates, but we are researching & the presentations took up a lot of my time.
+(If anyone reading this post can give some advice that'd be great!)
+
+🛠️Projects:
+🚩 Updated the Fullstack Project.
+🚩 Added a Modal Component that will give the Job Description, Location & Company as visible in the Image.
+🚩 Along with a Direct Link to apply to the job, all directly provided by GitHub Jobs API.
+🚩 Things left to do:
+🚩 Improve Front-End & Host on DO Droplets.
+
+🌊 Talks/Livestreams:
+
+🍀 #IGLiveWithSid Episode 4:
+🔑 Diversity & Inclusion is the Key to Growth - with @siddharth*hacks & @*._khushi.sharma_.\_
+Some topics that were touched upon:
+🚩 Different perspectives on a Community & what an Ideal one looks like?
+🚩 A Community should have a Common Vision, with some Important core values which should include Learn, Build & Share.
+🚩 Having people who are understanding of your situation & help you grow is an amazing community.
+
+🚩 A community should be welcoming to all kinds of people regardless of age, amount of experience, or any other such factors.
+🚩 There should be a feeling of Healthy Spirit inculcated in them.
+🚩 Always get inspired by people but don't follow them blindly,create your own unique path.
+
+🔹Why @equicode is such an amazing community in my opinion?
+🚩 It checks all the points I mentioned above.
+🚩 The community is unique & has a diverse environment.
+🚩 It has a Beginner-Centric Tech Culture.
+🚩 They promote diversity & inclusion, which is pretty evident from the name of the community as well.
+🚩 The community is welcoming & all the people, including the founders are Great & Experienced folks.
+🚩 This is why I highly recommend everyone who have been asking me in DMs about communities to join - Equicode would be the perfect place to start.
+👉Link to Join Equicode is in my bio.
+
+### R1D48(5 May)
+
+### R1D49(6 May)
+
+### R1D50(7 May)
+
+### R1D51(8 May)
+
+### R1D52(9 May)
+
+### R1D53(10 May)
+
+### R1D54(11 May)
+
+### R1D55(12 May)
