@@ -934,7 +934,6 @@ Key Learnings/Takeaways :
 
 ### R1D45(2nd May)
 
-Day:{45/100}
 ✨ Just Coding Today!
 
 🛠️Projects:
@@ -954,7 +953,6 @@ Store in Redis - - >Pull into API (Express) - - >Display on React Front-End Web-
 
 ### R1D46(3rd May)
 
-Day:{46/100}
 ✨ On a Productive Streak!
 
 🛠️Projects:
@@ -1031,13 +1029,134 @@ Some topics that were touched upon:
 
 ### R1D48(5 May)
 
+✨ Unproductive Day but Lesson Learnt.
+
+🛠️Projects:
+
+🚩 Ran into a bug where the jobs from the API was not getting fetched & I was running into a error.
+🚩 Which is why when I was serving the website it showed 0 jobs found.
+🚩 The solution to this issue was actually really simple but it took up lot of my hours which I could've used elsewhere.
+
+🚩 The solution :
+🔹The node command to run the API wasn't working on the Powershell Terminal in-built in VS Code, so I had to first switch to system terminal for it to run.
+🔹I was running into the very famous CORS error, (Cross-Origin Resource Sharing) so after I did some reading up-
+👉Install CORS using npm and import it and using : 👉var cors = require('cors')
+app.use(cors( {origin: 'URL HERE' } )) ;
+this command specify which URL you would like to allow the sharing of resources to, & voila the app will start working!
+
+🖥️ Work:
+🚩Researched about some programs I can apply to as a student.
+🚩 Read-up on a lot of articles related to tech & about the programs.
+🚩 I also looked up a few courses that I am going to start learning, not just because they're fascinating but I genuinely want to learn them to upskill myself.
+🚩 Started looking around in KubeCon Booths and found some really amazing products people use for Kubernetes Backup, Disaster Management, and Incident Reporting.
+
+🌊 No Talks/Livestreams Today!
+🍀Couldn't find any to be honest! And I also wasn't in the right state of mind to attend one maybe.
+
 ### R1D49(6 May)
+
+✨ SO CLOSE TO HALFWAY!
+
+🛠️Projects :
+🚩 Done with my Fullstack Javascript Application!
+🚩 Super happy the app works perfectly, all that's left is to improve the Front-End of the app and deploy it.
+🚩 I tried using Digital Ocean to deploy my application, but unfortunately, I recently discarded the credit card I was using for these purposes so maybe deploying using DO will have to wait because I don't think there's any way of proceeding without a card.
+
+🌊 Talks/Livestreams :
+🍀 DevConnect 6.0 with @sid, @khushiSharma_22, @adityaoberai1
+🚩 A Talk where we expected less people to turn up initially, but soon it was packed with a lot of new folks from all around the globe!
+🚩 The topics that we spoke on were in General on time management as a Developer or someone who's actively involved with the community.
+🚩 Some pros & cons of mediums of communication like Discord, Twitter, LinkedIn or plain old mailing.
+🚩 Some talks also related to what they don't teach you at college no matter how reputed it is.
+🚩 And everything else related to Hackathons!
+🚩 Some talks related to swag as usual, or it wouldn't have been a DevConnect session.
 
 ### R1D50(7 May)
 
+✨The Halfway Point of A Long Climb!
+
+🌟Day 1 feels so long ago now, & this journey has been amazing, I can very very confidently say that in this short span of 50 days I have learnt more than I ever had in probably years even.
+
+🖥️ Work:
+🚩A really important factor in my growth & Learnings was the community so I had this idea where I should probably have a place where people can easily access something that they might have missed but read about it in my post!
+🚩 Made a Github Repo - Awesome-Talks-Livestreams-and-Spaces, which has a link to:
+🔹ALL the talks that I was a part of.
+🔹ALL the communities I am a part of & links to join them.
+
+🌊 Talks/Livestreams:
+🍀 SAWO Vibe Check Ep 2-DevRel in Auth hosted by @cherish & guest speaker @phil
+Key Takeaways on DevRel:
+🚩 A DevRel team or Community is more than just a Slack/Discord Channel.
+🚩 Ample reasons why a good company should have & invest in a DevRel Team.
+🚩 The Team's goals could be to increase awareness, &/or expand their product.
+🚩 It can completely change how people view a company.
+🚩 Understanding the feedback of people & then working on it.
+🚩 The DevRel should have some knowledge about the product of the company.
+🚩 The best place to get Started with DevRel is A Community.
+
+🍀Working with Eddie's Client & DataStax real retro discussion & freelancing with @eddiejaoude, @denise,@pieter
+Key Takeaways:
+🚩 To make your content standout, chose a niche & put out content that's easy to consume & is understandable.
+🚩 Recruiters often look at your OS contributions, involvement with the community, inculcating inclusiveness & how active you are on social media with good content.
+🚩 Always stay transparent with your client, keep them in the loop of what your doing using a report or a project board.
+🚩 When you contribute to a OS project, you show up on the radar of people who are maintaining it & others as well.
+🚩 Keep Profile Pictures & Names consistent throughout all profiles on the Internet.
+🚩 Practice Public Speaking consistently.
+🚩 Always be honest, as it always better in the long term!
+🚩 In the end we had a healthy discussion over Under promising and Over Delivering for a project, is it worth it or not?
+
 ### R1D51(8 May)
 
+✨ A Live Session to remember!
+
+🛠️Projects:
+🚩 Tried to deploy my Fullstack Javascript Project using Digital Ocean one final time but didn't work!
+🚩 I might consider switching to another hosting platform for now!
+🚩 Read some research papers on topics related to my final year project, like Eye Tracking using ML models, & Also Natural Language Processing.
+🚩 Designed the posts for past few days which also took up quite some of my time.
+
+🌊 Talks/Livestreams :
+🍀 How to Make it in tech - All about opportunities
+Late Night Gyaan with @siddharth_hacks & kunal
+I will just be mentioning this talk here, the insights were honestly so amazing from both of them that I am sure it wouldn't fit in this caption, & to do it justice, I would like to write a completely new post for it!
+
 ### R1D52(9 May)
+
+✨ Improving my Setup!
+
+🖥️ Work:
+🚩So far I used to work on my bed with a laptop stand that I have & honestly speaking it's not at all comfortable for long hours.
+🚩 So I decided to shift my so called setup to my sliding desk & to put it to use after many years!
+🚩 The place where the sliding desk is present is the only desk I have got & it is in a place with lack of space, & very cramped up.
+🚩 The chair I have is also super uncomfortable, which has started giving my back & legs a really hard time, which is why I am considering to upgrade my setup as soon as possible.
+🚩 Exams start from tomorrow!
+
+🌊 Talks/Livestreams :
+
+🍀 Significance of Paper Publishing with SujalMaity
+Hosted by @hackthemluntains and where I was the Moderator but I learnt a lot, few pointers in the talk:
+🚩 What is a Research Paper?
+🚩 How to write a research paper?
+🚩 You should reach out to your faculty or teachers from other places via Cold-Emailing to get them to accept you as a student intern.
+🚩 Start reading research papers in your interested field to know more about how you can write one.
+🚩 Research is an underrated field & has a lot of opportunities if anyone wants to explore it.
+
+🍀Low-Code Development using Power Platforms with Haimantika & HackOn Team:
+🚩 For the First time I learnt a lot about the other Power Apps, since I had used only Power BI before.
+🚩 I was very intrigued with how Power Automate worked and with some add-ons or external integrations from other platforms like Twilio, you can make amazing applications!
+🚩 The Power Platform includes :
+Power BI, Power Apps, Power Automate, & Power Virtual Agents (for building chatbots!)
+🚩 The Demo on the Power platform helped me figure out a basic understanding of how it works & I can't wait to try it out myself.
+
+🍀TwitterSpaces with sidh and Kunal and many others on Mental Health & Productivity!
+🚩 I had been missing a lot of TwitterSpaces lately, but got to catch up and felt like I didn't miss any after listening to just this one.
+🚩 A lot of talks surrounding mental health, & involvement of colleges that add to this mental pressure when they don't allow an individual to explore.
+🚩 What resonated with me the most was @aanchalmishra's story, I am going through the situation that she had gone through, where college faculty and peers question your actions & credibility.
+🚩 Another important talk was around posting achievements on LinkedIn.
+🚩 There were many other personal stories, & tips on productivity shared by various folks in the talk.
+🚩 I could write a long essay on how amazing this talk was or I could urge everyone reading this to check it out themselves!
+🚩 Yes, I went ahead & recorded the TwitterSpace because I knew how amazing it was going to be.
+👉👉Link in BIO.(Under Awesome Talks Github Repo)
 
 ### R1D53(10 May)
 
