@@ -1160,6 +1160,119 @@ Power BI, Power Apps, Power Automate, & Power Virtual Agents (for building chatb
 
 ### R1D53(10 May)
 
+✨ A New Start + Exams!
+
+🖥️ Work:
+🚩I got the basics of Python down with the course I completed on DataCamp.
+🚩 I will be creating a project using what I learnt, & it is on my To-Do list.
+🚩 For now I have two short term goals in mind.
+🔹Finish Learning & Master React which was the main goal for me.
+🔹My second most goal would be to learn & practice the Three.js Library.
+(Huge shoutout to Bruno Simon who inspired me to start Learning Threejs)
+🚩 I am very fascinated with what can be created using this library, since I am obsessed with 3D in General anyway.
+🚩 To get started with goals, I started with a Threejs course which I will mention as soon as I am deep in it to give it a review.
+🚩 Also completed 1/5 exams today!
+
+🌊 Talks/Livestreams :
+🍀 Open Source reviewing with Eddie & Getting some 🟩
+🚩 This Livestream has become part of my basic Monday Routine, I absolutely love it!
+🚩 I always start the stream while having dinner or sometimes waiting for it, & end up forgetting about it while I run to get some 🟩!
+🚩 People who are just getting into Open-Source, Eddie discusses some points when maintaining & Contributing to an Open-Source project so I highly recommend attending a few streams continously to get super experienced with Open-Source!
+
 ### R1D54(11 May)
 
+✨ Buzy/Productive Day for Today!
+
+🛠️Projects:
+🚩 As I had planned I made some improvements to the UI of my Fullstack project I did that!
+🚩 I plan to work on this project for a few more days then it will be back to learning!
+🚩 This project helped me learn a lot of things better like React Components, usage of API's and Using RedisDB.
+🚩 Exams: (3/5) done!
+🌊Talks/Livestreams:
+🍀 #IGLiveWithSid E5:Overcoming Mental Fatigue is possible with @sid & @ved
+Some points covered:
+🔹What is Mental Fatigue?
+🚩 The feeling of exhaustion mentally and not physically, which could be due to reasons like lack of sleep, overworking, hormonal imbalances.
+🔹What to do when Fatigue sets in?
+🚩 It's okay to not be productive all the time, take a Break overall, or from social media if necessary.
+Trying to stay productive is a vicious cycle which may end up leading you a darker path like Burnout or extreme digital strain.
+🔹Techniques to overcome mental fatigue?
+🚩 Change mindset, Reduce Workload, Gauge how much you can handle, and Sleep as much as required.
+🚩 Another solution could be Music, Netflix, some isolation & an element of spirituality.
+🔹How to Handle Rejections?
+🚩 Continuous failures will eventually help you overcome rejections, with the thought that whatever happenened, happened for the better.
+🚩 Another solution is to go with the flow or put yourself on Auto-Pilot Mode also learn to say No.
+🚩 Do what you love & block out the negativity.
+🔹How to get Started with Research?
+🚩 The research can be small or big, Consult with someone genuine, & they will guide you, (beware of fake scams)
+🚩Or you can do it by yourself.
+
+🍀#TwitterSpaces on Being Open Minded hosted by @franceso.
+Key Takeaways:
+🔹What exactly does it mean to have an Open-Mind?
+🚩 In layman's terms you are open to suggestions, & Learning from anybody no matter their learning experience!
+🔹Great place to develop your skill & start to have an open-mind?
+🚩 Straight & Simple Answer: Join Communities.
+🔹Things needed to make it in the tech world?
+🚩 Open Mind, Ability to handle constructive criticism, Communication & Feedback that genuinely helps you grow would be good touch.
+🚩 Not all feedback is good, so be careful when evaluating your next steps.
+
 ### R1D55(12 May)
+
+✨ A little unproductive but finished off the day on a good note.
+
+🛠️Projects:
+🚩In terms of coding did very little like giving final touches to the landing page of my project.
+🚩One would argue & say I worked a little on my designing skills because I worked on creating the previous posts, images & writing.
+🚩 Also created a flowchart for my project.
+🚩 At the end of the day I helped out a friend from my college host their very first website on the internet!
+🚩 Exams (5/5), Wohoo!
+
+🌊 Talks/Livestreams:
+🍀 Reviewing LinkedIn Profiles on Livestream with @sid
+🚩 Got my profile reviewed on stream!
+🚩 Learnt a lot of important insights on how I could improve my profile, which I will soon work on after I finish with my project, submissions and vivas(😭)
+🚩 Very important pointers:
+🔹Add your name pronunciation,
+🔹Desrcibe Work experience in points for every work
+🔹Keep your about section moderately short, &
+🔹Keep your headline short & descriptive.
+
+🍀CNCF Students Community Launch with @kunal from code forcause & other amazing speakers!
+🔹Introduction session by @popcast & got a lot of tips on networking.
+🚩 Loved the Popcast mission to connect technical & thought leaders to the community & audience that goes beyond code.
+🔹@idor's session on how to get Started with Open Source & get internships through it.
+🚩 We also spoke about how the cloud tech world is extremely vast with the help of a diagram that listed all the tech CNCF world,but we cannot possibly learn all so you should target only a specific few.
+🔹@barts rap was amazing 🙌🙌
+🚩 Got to know about the Data on K8s Community & their goals.
+🚩 Some tips on networking with Community folks & ways to get some opportunities.
+🔹@saiyam pathaks talk on no code contributions
+🚩 How you shouldn't restrict yourself to just Kubernetes & explore certain individual projects.
+🚩Learnt about K3s which is a lighter version Kubernetes.
+🚩 He also shared a great resource called as katacoda.com which helps you learn new tech with an in browser environment.
+🔹@divyamohans talk on how to contribute to Kubernetes
+🚩 Certain policies to keep in mind while Contributing.
+
+### R1D55(13 May)
+
+### R1D55(14 May)
+
+### R1D55(15 May)
+
+### R1D55(16 May)
+
+### R1D55(17 May)
+
+### R1D55(18 May)
+
+### R1D55(19 May)
+
+### R1D55(20 May)
+
+### R1D55(21 May)
+
+### R1D55(22 May)
+
+### R1D55(23 May)
+
+### R1D55(24 May)
