@@ -1253,26 +1253,180 @@ Key Takeaways:
 🔹@divyamohans talk on how to contribute to Kubernetes
 🚩 Certain policies to keep in mind while Contributing.
 
-### R1D55(13 May)
+### R1D56(13 May)
 
-### R1D55(14 May)
+✨ Keeping it short!
 
-### R1D55(15 May)
+🛠️Projects:
+🚩 Worked on my project as usual, and Completed the actual Job Board with a Neumorphic Card Design as visible in the Image which, hovers when you move the cursor over it.
 
-### R1D55(16 May)
+🌊 Talks/Livestreams:
+🍀 DevConnect 7.0 with HackOn Team!
+Topics Discussed:
+🚩 We started off with the topic of ML because we had @ek sir with us, & he cleared a lot of the misconceptions about ML
+🚩 How AI & such heavy topics are being taught to kids at an early age now.
+🚩 People sharing certificates on LinkedIn to show their work, the pros & cons of it.
+🚩 & finally we discussed about the MLSA program & some of the best practices while writing out your application.
 
-### R1D55(17 May)
+### R1D57(14 May)
 
-### R1D55(18 May)
+✨ Designing + Attending Talks!
 
-### R1D55(19 May)
+🛠️Projects:
+🚩 I worked on creating a Presentation for my Final Year Project.
+🚩 It involved designing this flowchart/block diagram, & it turned out pretty well so decided to share it here!
 
-### R1D55(20 May)
+🍀Sawo Vibe Check Ep-3: Communities Led Startup with @cherish, @ninad @prabhat @kitty
+🚩 How Communities are shaping the startup ecosystem!
+🚩 Company with communities always have a headstart.
+🚩 In the presence of a community led startup it's difficult to break the network and leadership connections.
+🚩 Shift of Companies from Product-led startups to Communities-led startup.
+🚩 Somebody referred to by a community member is more likely to stay, or becomes a permanent user for your product.
+🚩 Ways to keep your community engaged.
+🚩 Keep the core values of your product intact, & don't clutter it, instead work on scaling & optimizing.
+🚩Community led startup isn't something that is a checkbox on the marketing checklist, but it should be done with a clear vision, to properly make it a success.
+🚩 Mindset is really important when forming a community.
+🚩 Every company has different visions & needs so communities are not recommended for every company.
+🚩 Start with a small focus group & then try and scale it into a community.
+🚩 Don't stick to just one form of marketing like just creating content only.
+🚩 Statistical Predictions are not always accurate so don't just rely on it.
+🚩 You should value the time of investors & don't make promises like making the world a better place to live in, which might cause the investors to turn off & make you lose their attention.
+🚩 Fojnders shouldn't get discouraged when some other potential startups get a large funding.
+🚩 Also don't let the funding you might get distract you, & lose your vision and cool.
 
-### R1D55(21 May)
+🍀Raiding Github Projects & Getting 🟩 with @eddiejaoude
+🚩 I personally got around 12 green squares during the course of the live stream so I would say that the stream added a lot of value.
+🚩 I learnt a lot about GitHub Actions which has made me want to explore more about this feature so I proceeded to watch all Github Actions related content on Eddie's Channel.
+🚩 I will be getting back to him after I've seen his videos on Github Actions for the Feedback!
+🚩 Saw a lot of awesome projects during the stream as well!
+🚩 I highly encourage everyone to visit Eddie's channel & subscribe, and be a part of such amazing streams.
 
-### R1D55(22 May)
+### R1D58(15 May)
 
-### R1D55(23 May)
+✨Full-Stack Application competed+Taking it slow for few days!
 
-### R1D55(24 May)
+🛠️Projects:
+🚩 I finally completed the Fullstack Job Board Application I was working on!
+🚩 Still needs quite a lot of improvement but I know I could spend that time learning something else so I'm now shifting back to learning phase.
+
+🚩 My college submissions have began which usually take my entire day, & I am only free during the evening & night.
+🚩 It is going to be like this for just a few more days & then I will probably be back on track learning & coding.
+
+🌊 Talks/Livestreams:
+🍀 Fundamentals of Kubernetes with @kunal from @codeforause hosted by @HackOnHackathon
+Topics Covered:
+🚩 Introduction to Containers & how they compare with virtual machines.
+🚩 Container Analogies to real ships & containers.
+🚩 Terminologies related to Docker.
+🚩 Limitations of Docker.
+🚩 How Kubernetes overcomes the limitations of Docker.
+🚩 Architecture of Docker involving components like Containers, Images, & Docker File & DockerHub.
+🚩 Architecture of Kubernetes involving components like Pods,Master /Worker Nodes, API Server, Scheduler, Control Manager, Kubelets etc.
+🚩 Very Basic Commands to get Started with both of them.
+🚩 How to run Kubernetes & Docker on your local machine and experimenting with it.
+🚩 For anyone trying to learn about Docker or Kubernetes, I'd recommend this as the starter video.
+
+🍀#HackItWithSid Journey in Tech hosted by @siddharth_hacks & @seema
+Things we spoke about:
+🚩 How to get started with tech or develop an interest in technology.
+🚩 Presence of a Community that helped you in your journey.
+🚩 How a learning environment plays a very important role.
+🚩 How would you define tech & opportunities in technology?
+🚩 Key Learnings from the entire journey in tech so far.
+🚩 Getting out of your comfort zone, improving social & networking skills, connecting with people who inspire you as well.
+🚩 Getting over insecurities, and put yourself out there.
+🚩 Rejections are a part of the journey, & rejection is nothing but re-direction.
+🚩 Projects that she was currently working on & tools used.
+🚩 How to get Started with DevOps.
+🚩 Languages to learn like Rust & Go, to get involved in DevOps sectors like Automation.
+🚩 Perspective on Hackathons.
+🚩 Tips on cracking interviews of various companies.
+
+🍀Workshop on Building Serverless Apps with AWS Amplify with @harshbandhan hosted by (harshcasper) @hackthemountains
+Takeaways:
+🚩 Learnt about React in a Nutshell.
+🚩 Some very basic & intermediate topics of Web Development.
+🚩 JSX & how it works.
+🚩 Advantages of ReactJs
+🚩 Pre-requisuites of using React like Node.js
+🚩 Create-react-app
+🚩 What is Serverless?
+🚩 Advantages of Serverless-No management, Flexible Scaling, No Idle Time, & High Availability.
+🚩 Pay-as-you-go Model.
+🚩 What is AWS? & AWS Amplify?
+🚩 Navigating & Learning the AWS Management Console.
+
+### R1D59(16 May)
+
+✨Super Buzy Day!
+
+🚩 A heck lot of Submissions, & Viva exams that were stressful nonetheless it has become very clear to me that college academics is a big bubble, outside which lies this amazing world of tech that I didn't dare to venture before but every student should try to step out of their cozy comfort zone.
+🚩 Honestly it will change your world view about tech, science & learning in general.
+
+🌊Talks /Livestreams:
+🍀 Updating Readme Through Github Actions with @praveen & @carry
+Topics covered:
+🚩 Started with creating the action using Node.js
+🚩 All GitHub Actions are written in yaml file.
+🚩 How to automate stuff using Github Actions.
+🚩 Working with ''releases'' on the repository works well with Github Actions.
+🚩Personal Auth Token Creating using some conventional keywords like GITHUB_TOKEN.
+🚩 Github Actions actually went down during the stream, but I actually learnt a lot.
+
+🍀#TwitterSpaces with @Vedant_Bahel on Networking 101.
+🚩 Had a really amazing talk on Networking in Tech & other fields as well.
+🚩 Pros & Cons of LinkedIn.
+🚩 Twitter an underrated & potential space for developers to grow & network.
+🚩 Content Creation & ways of creating content.
+🚩 Which platforms to leverage for which type of content.
+🚩 Art of Cold-Emailing/Messaging.
+🚩 Misconceptions about LinkedIn & people treating it like it's Instagram.
+🚩 Trial & Error Method of Content Creation, to maximize engagement.
+
+🍀Panel Discussion on How Community Helps You - hosted by @mozdurg with folks like @carry @sidd @praveen
+🚩 What exactly is a community?
+🚩 How communities help you get over challenges.
+🚩 How communities breed a learning environment.
+🚩 How people usually come for the free stuff, but end up enjoying the Hackathon culture.
+🚩 A really good Internship opportunity can be Hackathon.
+🚩 How to get out of your comfort zone, start exploring & also Contributing.
+🚩 Best experiences after joining a community.
+🚩 How to be a part of Communities even after joining the corporate world.
+🚩 Really huge shoutout to Praveen as well who still contributes to the community & Hackathons as mentor & judge even after being buzy with a job.
+
+### R1D60(17 May)
+
+✨ Submissions + Rest!
+
+🚩Completed almost all my assignments & other submissions!
+🚩 Also took a much needed break today from coding!
+🚩 Will be back on track from tomorrow! ❤
+😲But wait!
+I couldn't miss out on one of my favourite shows!
+👇👇
+
+🌊 Talks/Livestreams:
+🍀 The Campus DevRel Show by @GitHubEducation hosted by @yashovardhan & speaker @vivek sridhar
+🔑 Learnings:
+🚩 Definition of A Polymath Developer - Using an Analogy of being a chef who can cook every dish, similarly, A Developer who can build an Application from end-to-end involving even the marketing of the product.
+🚩 There should always be communication between different fields of technology in a company to maintain smooth deploying of applications.
+🚩 Participate in co-curricular activities which will help you grow your management, leadership, & many such other skills to grow exponentially.
+
+🔹How to become a Polymath Developer?
+🚩 Don't restrict yourself to one domain, if you're able to learn a lot of technologies, you should explore & learn everything you can especially in the situation where learning resources are so easily available.
+🚩 Polymath is not an actual role, but more of an experience or mindset where a person is open to learning from any field no matter the challenges.
+🚩 Communities will play a major role in how you learn & help you when you get stuck, so get involved in communities & surround yourself with like minded people.
+
+### R1D61(18 May)
+
+### R1D62(19 May)
+
+### R1D63(20 May)
+
+### R1D64(21 May)
+
+### R1D65(22 May)
+
+### R1D67(23 May)
+
+### R1D568(24 May)
