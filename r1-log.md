@@ -1419,6 +1419,40 @@ I couldn't miss out on one of my favourite shows!
 
 ### R1D61(18 May)
 
+✨An Interesting Mix of Events.
+
+🚩Got back on the React Train! ⚛
+🚩 Since the goal of the program was to learn React, I will be working on that little by little.
+🚩 I am currently learning a lot of things, but I will be focusing on React for just a few days again before I start getting into some other commitments & vivas, or final exams.
+
+🌊 Talks/Livestreams:
+🍀 Research 101 by @vedant_bahel
+🚩 This session truly changed my world view about research & the possibilites in research!
+🚩 I am very determined to write a paper myself!
+🚩 I haven't decided a topic yet, but I will decide soon & be ready for it next week!
+
+🍀Google I/O '21!
+🚩 I would be lying if I said I didn't expect to have my mind blown to such an extent.
+🚩 The rate at which the technology is evolving every year, month & now the tech evolves every single day.
+🚩 The AI & ML innovations by Google has now reached to a very scary but very useful & interesting extent.
+🚩 Technologies that were mentioned in the event that have seen significant improvement & impact:
+🔹AI & ML especially in NLP
+🔹UI/UX
+🔹Custom Mobile App Development(Material You & Kotlin)
+🔹3D Hologram Rendering.
+🔹Google Lens, Chrome, Photos, Maps and much more!
+
+🍀#TwitterSpaces by @ChrisKalamar on Journey into Development with @eddiejaoude
+🚩 A lot of amazing Developer stories & how they got started.
+🚩 A lot of the panelists started with Dial-Up Internet & with no experience in tech.
+🚩 Availability of Resources to learn in the past, compared to now like books replaced by videos, and tutorials.
+🚩 CS Degree or No Degree?
+🚩 Is the degree worth it or not?
+🚩One thing that was agreed upon & was quite interesting was even if the degree isn't worth it academically, it indirectly helped many people in the panel to network!
+🚩 Obstacles or Challenges that you might have faced that almost made you quit as a Developer.
+
+I was Multitasking two events at once! But soon there was a long break in Google I/O so I switched back to #TwitterSpaces
+
 ### R1D62(19 May)
 
 ### R1D63(20 May)
