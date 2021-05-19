@@ -1455,6 +1455,25 @@ I was Multitasking two events at once! But soon there was a long break in Google
 
 ### R1D62(19 May)
 
+✨ Back on the Learning Train.
+
+In ⚛️ :
+🚩 Started Learning about useReducer Hook & how it replaces useState.
+
+🌊 Talks/Livestreams:
+🍀Social Media for Devs by Priyanka Yadav hosted by @HackOnHackathon
+🔹Pointers on LinkedIn:
+🚩 Advantages of LinkedIn!
+🚩 Opportunities available like Conferences, Interviews/New Job Opportunities,Networking with other people.
+🚩 If you want to join communities Discord/Twitter might be the place, but LinkedIn is specifically for Networking only.
+🚩 Leveraging the platform by content creation.
+🚩 Keep sharing what you're learning.
+🚩 Always aim to increase you're credibility.
+🔹On Twitter:
+🚩 Constantly tweet about your work, & write blogs.
+🚩 Build in Public, & something that might help you do that is #100DaysOfCode.
+🚩 Link Github Projects you're building in Tweets.
+
 ### R1D63(20 May)
 
 ### R1D64(21 May)
