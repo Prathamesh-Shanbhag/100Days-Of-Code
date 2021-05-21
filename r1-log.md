@@ -1476,7 +1476,77 @@ In ⚛️ :
 
 ### R1D63(20 May)
 
+✨Forming a Fixed Routine!
+
+In ⚛️:
+🚩 Learnt about a new hook called useReducer!
+🚩 Replaces/Works well with useState when the project is large.
+
+🌊Talks/Livestreams:
+
+🍀 DevConnect 8.0 with HackOn Team!
+@adityaoberai1, @siddharth_hacks @khushiSharma_22
+🚩 DevConnect is something that has become a part of my routine Thursday, & it usually ends up extending beyond the decided time, and to be honest I don't think anyone ever minds it because the conversation is too engaging & interesting to miss out on.
+🚩 This week we had a good chunk of the discussion being taken up features introduced by @google at #GoogleIO2021.
+🚩 The amount of new technologies & features for existing tech was a lot, but in the discussion we covered all in great detail, we have @shivay & @rishit to thank for that amazing deep-dive.
+🚩 The rest of the Talk was around tech in General & about few of the upcoming Hackathons too!
+
+🤯 GoogleI/O showed me that how much technology has advanced especially in the field of ML, so much so that it has made me want to explore this field better & hence I have applied to an ML program to explore it better let's hope for the best! ❤
+
+🍀 Web3 is A Cake with QuickNode hosted by HackOn Hackathon with @sidd & @sahil Sen
+Topics Discussed:
+🚩 What exactly is Blockchain?
+🚩 What is Web3 & a few of its features.
+🚩 Some Important Blockchain Terminologies like Ledger & Proof of Work.
+🚩How the transactions are recorded & publicly available on a Decentralized Platform.
+🚩 What exactly are Nodes?
+🚩 How we can get the details of the latest block by using few lines of Javascript using QuickNode & QuickNode explorer.
+🚩 With QuickNode interface we can view the Block Number, the Hashes, Gas used to mine the Block, & Timestamp at which block was mined.
+
 ### R1D64(21 May)
+
+✨Getting Selected + Talks!
+
+❤️ From wanting to explore the Machine Learning & Deep Learning field to getting the perfect opportunity & platform for doing so! ✅
+I am really excited to be a part of #MLDLS2021!
+
+🙌Thanks to all the @TheMLDLS organizers @Vedant_Bahel, @ryagnik9, @12HarshAryan for the acceptance!
+#MLDLS starts from 22nd May!❤️
+
+In ⚛️:
+🚩 New Conecpt called Prop Drilling, which is not an official term but a concept used for passing down the props in a Component Tree.
+🚩 This can be very hectic & time consuming in a large project, & can make the props unnecessary in certain components as well.
+
+🌊Talks/Livestreams :
+🍀 AMA with Juan Pablo hosted by HackOn.
+Topics we discussed:
+🚩 Github Student Developer Pack & it's benefits.
+🚩 The Github Campus Expert Program, what is the program, the program timeline, tips while applying, & prerequisites before applying.
+🚩 Journey in relation to Hackathons.
+🚩 Dreamviewer to develop websites😂
+🚩 How to overcome & not get disheartened over getting rejected for a student program.
+🚩 Best Practices & How to select a team while organizing a Hackathon.
+🚩 Also some tips while taking part in a Hackathon as a Hacker.
+🚩 Getting actively involved with the community!
+🚩 Favorite features of Github & Future of GitHub
+
+🍀 Resume/CV Review with @sawo hosted by @Cherish & @Sidd
+Key Takeaways:
+🚩 Write good amount of contact information for the recruiters.
+🚩 Write about the Impact of your work experience using S-B-I (Situation-Behaviour-Impact) format.
+🚩 Don't add any misleading information.
+🚩 Highlights links, Keep Font Consistent.
+🚩 Avoid negative or white space which will make the resume more concise & compact.
+🚩 Make the resume with smart use of colour, making it super minimalistic but easy to read & navigate.
+🚩 Give some attention to detail, like font style, size and thickness of the font, all while keeping it consistent throughout.
+🚩 Prioritise some top projects rather than adding all the projects you have made, & keep the order of the contents with respect to the job role you're applying for.
+
+🍀 Open-Source Project Reviews on Github!
+🚩 I joined the stream late, but I caught most of it!
+🚩 I was really fortunate to be a part of the stream when Emanuel mentioned that he started Contributing & building his Github Profile, which lead to him bagging a job interview based on his Github Activity! ❤
+🚩Which is why I keep saying mentioning to join communities & start contributing, & EddieHub could be the perfect place to start!
+🔗Link to Join is in BIO!
+Or simply checkout : eddieHub.org
 
 ### R1D65(22 May)
 
