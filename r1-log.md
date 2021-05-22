@@ -1550,6 +1550,40 @@ Or simply checkout : eddieHub.org
 
 ### R1D65(22 May)
 
+✨Getting Started with Machine Learning from Basics!
+
+In React ⚛️:
+🚩 Learnt about Context API!
+🚩 The feature that was introduced in React to avoid the redundant prop drilling, & the Conecpt is similar to swapping two variables using a temp space.
+🚩 But here the only difference is there is no swapping, but just passing of props using a temporary space.
+🚩 That temporary space is called Context API.
+(Convenient to use if Project is large!)
+
+In Machine Learning ⚙️:
+🧩 #MLDLS L1 with @vedant_bahel @harsharyan & Rucha Yagnik.
+🚩 Introduction to ML & DL, & the differences BETWEEN AI--> ML-->DL each in the order of their subsets.
+🚩 Sub-Divisions of Machine Learning.
+🔹Supervised (Labeled Data).
+🔹Unsupervised (Unlabeled Data).
+🔹Deep Learning ( Multi-Layered, works using Neural Networks)
+🔹Re-inforcement Learning.(Reward /Punishment Based System)
+🚩 Terminologies like Features, Predictor/Target Variables, Training/Testing Data & Accuracy calculation.
+🚩 Division of Supervised Learning into 🔹Classification(Dicrete Values/Numerical ) & 🔹Regression (Range of Values/Continous Value)
+
+🌊 Talks/Livestreams:
+🍀 Introduction to Conversational AI: Build NLU model with LUIS.
+Key Learnings:
+🚩 Definition of Conversational AI & it's implementations like Chatbots.
+🚩 What is Natural Language Understanding or NLU?
+🚩 What is LUIS? (Language Understanding Intelligent Service) & how it works.
+🚩 Some services provided by LUIS
+🚩 Application Development Life Cycle.
+🚩 A Demo for building an NLU model using LUIS
+🚩 Some sub-topics covered while building a model using LUIS:
+🔹Intents.
+🔹Utterances.
+🔹Entities.
+
 ### R1D67(23 May)
 
 ### R1D568(24 May)
