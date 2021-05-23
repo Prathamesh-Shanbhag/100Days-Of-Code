@@ -1584,6 +1584,62 @@ Key Learnings:
 🔹Utterances.
 🔹Entities.
 
-### R1D67(23 May)
+### R1D66(23 May)
 
-### R1D568(24 May)
+✨
+
+In ⚛️ :
+🚩 Revised a few concepts before moving ahead with the course to make sure, I don't face problems ahead!
+
+In Machine Learning ⚙️:
+🧩 #MLDLS L2 : All About Linear Regression!
+🚩 How Linear Regression works & the exact mathematics behind the algorithm.
+🚩 Linear Regression aims to create a model using the relationship between just two values.
+🚩 Loss, Hypothesis & Cost Function
+🚩 Gradient Descent as a concept which means that the model works towards moving to the lowest point on the parabola graph by changing the parameters like the m value.
+🚩 Websites for Datasets like Kaggle, Google Dataset Search, & UCL ML Repository.
+🚩 Creating a Demo Model of Linear Regression using Python!
+🔹numpy to work with numerical data.
+🔹pandas to work with datasets & data manipulation.
+🔹matplotlib for Data Visualization!
+
+🌊 Talks/Livestreams :
+🍀Introduction to TensorFlow & TensorFlow.js with @shuvay hosted by @HackOnHackathon
+🚩What is Machine Learning?
+🚩What exactly is TensorFlow?
+🚩To counter disadvantages of numpy library, TensorFlow.js was introduced.
+🚩Tensors - Form of Representing Data & Data Flow Graph.
+🚩How to get started with TensorFlow & it's prerequisites.
+🚩Learn-Complete a Project-Implement
+🚩Sub-Divisions of TensorFlow!
+🚩TensorFlow.js has large support hence learning it is beneficial.
+🚩 Run-Retrain-Write concept, to use pre-existing models, or modifying it using personal data.
+🚩Object Recognition, Face Mesh, Body Segmentation
+🚩The Teachable Machine Demo!
+🚩 Resources for learning TensorFlow.
+🚩 For large datasets- Cloud Data ML.
+🚩 Layers of TensorFlow.
+🚩 Advantages of building using TensorFlow.js on Client & Server Side.
+🚩 Everything related to Contributing to TensorFlow!
+
+🍀Deploy Node.js to Azure App Service using Visual Studio Code. With ayushi
+🚩 Introduction to Node.js & how it works(Process & Threads)!
+🚩 Node.js Architecture
+🚩 How to install & get Node.js running on your local machine.
+🚩 Introduction to Microsoft Azure, & its services.
+🚩 How to get started with it, using a special plan available for students.
+🚩 How to build applications using Azure & then also integrating Node.js all on your local machine.
+
+### R1D67(24 May)
+
+### R1D68(25 May)
+
+### R1D69(26 May)
+
+### R1D70(27 May)
+
+### R1D71(28 May)
+
+### R1D72(29 May)
+
+### R1D73(30 May)
