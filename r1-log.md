@@ -1632,6 +1632,38 @@ In Machine Learning ⚙️:
 
 ### R1D67(24 May)
 
+✨Submissions + Talks!
+
+🚩Completed Submissions + Started Preparing for Vivas + Worked on my resume, and attended one of my favourite Talks!✅
+
+🌊 Talks/Livestreams :
+🍀 The Campus DevRel Show by@GitHubEducation and hosted by @yashovardhan & guest speaker @joenash
+🚩 Experience with Hackathons & Hackathon Organizing too!
+🚩 Communities built around Hackathons!
+
+🚩The story of MLH- Major League 'Hostel' during one of the Hacks in London.
+🚩 The Hackathon Family Tree! ❤
+🚩Journey of getting into PayPal as a DevRel, which all started from Hackathons!
+
+🚩 As a Program Manager, what things one can keep in mind before/while working on creating the program for students in communities?
+Question by @siddharth_hacks & I actually loved this answer because from what I heard GitHub is every students dream!
+🔹The simple answer is to put yourself in the shoes of the Student, & understand what problems the students face, like monetary or having exams during the application period & overall not add on to those issues by creating those features in a program.
+
+🚩 The story of how GCE came into being & that story was mind-blowing.
+🚩 I really liked the fact that Joe mentioned that they really made the program keeping in mind the status of students.
+
+🚩 The GitHub marketing tactic which is not forced marketing but giving students, learners & the Github Campus Experts an option to voluntarily share about GitHub if you want to, which I think speaks volumes about the company.
+🚩 How GitHub Education aims to help people become software engineers because then when you start encountering large codebases & work in teams, Git & GitHub become necessary!
+🚩 Reverse Engineering the usage of Git & Github by making people encounter a problem that will require them to use Git & Github. (🤯Me Right now)
+Best Example = Hackathons!
+
+🚩 Small Discussion on Discord V/S Slack, & Joe's vision for Discord in 2018 :P
+🚩 Features of the GCE & the Collaborative efforts of the Community of the GCE!
+
+🚩 Advice to anyone wanting to become a DevRel?
+🔹DevRel is one of the rarer careers, & if you don't land a DevRel Job immediately, you shouldn't get disheartened & keep in touch with the tech world regardless & keep contributing to the community, & a DevRel opportunity will soon present itself!
+🚩 TwilioQuest & How it works and how it can boost your student
+
 ### R1D68(25 May)
 
 ### R1D69(26 May)
