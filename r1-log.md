@@ -1733,7 +1733,7 @@ Topics Discussed:
 🚩 Updates on what everyone has been doing so far in this challenge.
 🚩 Some very important tech advancements in the field of ML.
 🚩 Favorite Google I/O tech introduced.
-🚩 Some ways one can get started with ML & stay dedicated to it.
+🚩 Some ways one can get started with ML & stay dedicated to it
 🚩 One such way is by joining in on #25DaysOfML, it doesn't matter if you're Day 1 is from today, all that matters is that you start!
 
 ### R1D70(27 May)
