@@ -1666,7 +1666,75 @@ Best Example = Hackathons!
 
 ### R1D68(25 May)
 
+✨Made my first ML Model!
+
+In Machine Learning ⚙️:
+🧩 #MLDLS: As part of the Assignment, I worked on my very first ML Model made using Linear Regression!
+🚩 The Model was made using linear Regression so there is only one input & one output.
+🚩 The model determines amount of CO2 emissions based on the amount of fuel consumed by your vehicle in L/100km.
+🚩 The model was 85% accurate!
+🚩 In the end I added an option to take external data & also user data, that the user can input and find out the CO2 emissions from their vehicles!
+
+🌊 Talks/Livestreams :
+🍀 How to Make your Open-Source Project a Success? With @eddiejaoude hosted by @khushi from HackOn Hackathon Team.
+
+🚩 Remove or disable the features not being used in a project.
+🚩 Code of Conduct is very important, & there are templates you can use so its super simple too.
+🚩Keep projects public because recruiters might go back & see your previous projects to measure your improvement, & they might also look at your contributions.
+🚩 To get inspiration, look at good open source projects & see closed issues to see how maintainers handle the issues.
+🚩 One liner for the Description of the Project is very important!
+🚩 Also make sure that your projects meet the community standards.
+🚩 When raising an issue make sure to give context.
+🚩 Keep the Project Concise & Easy to digest.
+🚩 Conventional Commits is the way to go for making commits to keep the project consistent & use Automated Changelogs!
+🚩 Issue Templates is another important factor to encourage contributers to make a good issue, & make them want to contribute to your project.
+🚩Make sure to have not too branches & also use tags too.
+🚩 Include Issues & Pull Requests in the project even if it's just you working on it.
+🚩 Also use labels to make the issues organized.
+🚩 The Projects tab is similar to a Trello Board & make it look organized, also make sure to add a link to the board in the Readme, since it's easily overlooked.
+🚩🌟 Github Actions - This feature of Github is used to automate a lot of work!
+🔹Releases & Changelogs.
+🔹Closing stale issues.
+🔹Running some code on a particular interval!
+🚩 Always make sure to push changes to a forked project using anything other than default branch!
+🚩 Pull = Fetch +Merge!
+
+🍀#TwitterSpaces by @carrycooldude on Product Design!
+We discussed on a lot of topics like
+🚩 Why is there a lack of awareness about Product Design/why is it neglected in our country?
+🚩 Why is it that few of our indian companies suffer in this sector?
+🚩 What are some ways that design & it's best practices can be introduced to many new folks?
+🚩 Shift of Product Based Marketing to Community Based Marketing.
+🚩 Disconnect between Developers & Designers that is slowly but surely bridging together.
+🚩 A Version Control System for Designers!
+🚩 I really loved the idea of this spaces, since I'm such an UI/UX enthusiast, And I hope to see more such spaces on such topics super soon!
+
 ### R1D69(26 May)
+
+✨ML Overload!
+
+In Machine Learning ⚙️:
+🚩 Went through some of the research papers I'm interested in working on, or write a review on.
+🚩 Some topics that I looked into were Eye gaze tracking research using Image Processing, & A study of eye tracking technologies & it's application.
+
+🚩 I have also come to realize that I'm juggling too much stuff at once which I think will soon lead to disaster, especially since I have a Hackathon that I'm participating in this weekend & my end-sem exams start thereafter, so taking a step back & keeping all React & Threejs related learning after I am done with my exams or probably much later to avoid any mess.😅
+🚩 Viva Exam(1/4)
+
+🌊 Talks/Livestreams :
+A Very Important session that I couldn't mention in my last post.
+🍀A Session on How to get started with RESEARCH series by @vedant bahel
+🚩 How to select a title of your research paper.
+🚩 What are some scholarship programs you can apply for.
+🚩 Best Domains to write a research paper on.
+🚩 Ways to reach out to college professors looking for research interns.
+
+🍀#TwitterSpaces by @vedant_bahel on #25DaysOfML
+Topics Discussed:
+🚩 Updates on what everyone has been doing so far in this challenge.
+🚩 Some very important tech advancements in the field of ML.
+🚩 Favorite Google I/O tech introduced.
+🚩 Some ways one can get started with ML & stay dedicated to it.
+🚩 One such way is by joining in on #25DaysOfML, it doesn't matter if you're Day 1 is from today, all that matters is that you start!
 
 ### R1D70(27 May)
 
