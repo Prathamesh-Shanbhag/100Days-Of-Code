@@ -1738,8 +1738,180 @@ Topics Discussed:
 
 ### R1D70(27 May)
 
+✨Assignments + Exam + Talks!
+
+In Machine Learning ⚙️ :
+🚩Started working on the assignment for Linear Regression that has to be submitted for grading to MLDLS!
+🚩 Viva Exam(2/4)
+
+🌊 Talks/Livestreams :
+
+🍀 Who's who in Azure AI with Stephan Simon!
+Hosted by HackOn Hackathon with @khushi
+Topics Discussed:
+🚩 The talk highlights the various amounts of software products provided by Microsoft Azure, but most importantly how to select which service for your project.
+🚩 Foundational knowledge about Machine Learning & Artificial Intelligence concepts all related to Microsoft Azure Services.
+🚩 Dividing the services into 5 Broad Categories!
+🔹ML
+🔹Anomaly Detection
+🔹Computer Vision
+🔹Natural Language Processing
+🔹Conversational AI!
+🚩 How to prepare for your first Azure AI Certification!
+(A Question that I asked was)
+🔺Q: Since there are so many services in Azure, How to decide which one to learn & use in a project?
+🅰️: You have to fix your mind & fix a niche that you would like to explore! After setting a niche then look into the products that Azure offers around your niche.
+
 ### R1D71(28 May)
+
+✨
+
+In Machine Learning ⚙️:
+🚩I started reading about topics like :
+🔹 CNN, DNN, RNN.
+🔹SVM, KNN, Logistic Regression.
+🔹Decision Tree, Random Forest Algorithm
+🔹Naive Bayes Algorithm.
+🔹K Means Clustering.
+🔹Terms like Support & Confidence.
+🔹Apriori Algorithm & Fp Growth, Market Basket Analysis.
+🔹Five Number Summary, Boxplot, Outliers.
+🚩 Viva Exam(3/4)
+🚩 Refactored one of my old projects, & used some of that code in my React project & it surprisingly worked really well.
+
+🌊 Talks/Livestreams :
+
+🌟 Gave my eyes a Break from all the digital strain, & didn't /couldn't attend any Talks or Livestreams since most of my days got consumed during studying & giving exams.
+🚩 Also HackOn Hackathon starts tomorrow! ❤
 
 ### R1D72(29 May)
 
+✨Hackathon Time!
+
+In Machine Learning ⚙️ :
+🚩Completed Linear Regression Model Assignment with every code block explanation!
+
+📖 Hackathon Project Day 1:
+🚩 We already had a track decided in mind that we wanted to build on & that was the Mental Health & Awareness Track.
+🚩 On the first day we held a brainstorming session but, we struggled on coming up with an idea that would be focused around autism & helping autistic children.
+🚩 We experimented with certain ideas that would work & gave it a try!
+
+🌊 Talks/Livestreams :
+
+🍀 Getting Started with Elastic ELK Stack by Aravind Putrevu & hosted by HackOn Hackathon.
+Takeaways:
+🚩 Elastic is Go-To Search Engine for many companies around the world!
+🚩 Elastic is divided into 3 broad categories :
+🔹Elastic Enterprise Search - For products that can be integrated & use Workplace, Site & App Search!
+🔹Elastic Observability - A Sector that can help you track, log & bring all metrics & traces under one stack so you can monitor & detect events!
+🔹Elastic Security - Detect & Hunt threats to provide a unified protection around your infrastructure.
+🚩 Elastic also has a Cloud service which you can use to deploy, operate & scale elastic products!
+🚩 A Deep-dive on how 'Elastic Search' exactly works behind the scenes, & why it is considered as the heart of the elastic stack!
+🚩 Elastic Search is very vast which can be clearly seen in the diagram! The sheer amount of search features that are available is amazing, would definitely love to integrate elastic in some of my future projects!
+
+🍀Hackathon AMA with Sashrika & HackOn Hackathon Team!
+Topics :
+🚩 Everything Related to Hackathons!
+🚩 Everyone's very first Hackathon!
+🚩 Best Hackathon Memory!
+🚩 Best Practices while taking part in a Hackathon & how to make the most of it.
+🚩 Make sure to learn something new when taking part in a Hackathon to make it worth your time!
+🚩 A very in depth talk on how Hackathons were organised, & how they took place on the day of the hack when they were not virtual.
+🚩 The session then transitioned into a werewolf game that I did join but couldn't play due to connectivity issues, nevertheless I enjoyed the rules of the game & Sashrika's top notch story telling skills! 🙌
+
+🍀A Very Late Night Random Session with @siddharth_hacks on the community discord channel!
+🚩 The talk was very casual and we spoke about things like life in general, DSC Lead Interviews & the flow of the interviews!
+(P.S I have been shortlisted for the DSC Lead, & I have scheduled an interview soon in the coming few weeks! Nervous Excitement :))
+🚩 Thanks to @khushiSharma_22 for the reminder to go sleep, because @siddharth_hacks had us super engaged it was hard to sleep early! 🤓
+🚩 We were also joined by Devraj from Design & Code who held a quick redesign session of a Personal Website of one of our community members, at 3am in the night🤣
+🚩 Link to Join the Discord Server is in my BIO! ❤
+
 ### R1D73(30 May)
+
+✨Super Buzy Day!
+
+In Machine Learning ⚙️:
+🧩 #MLDLS L3 : All About Classification & Clustering!
+🚩 Types of Classification & different Algorithms to implement them.
+🚩 Learnt about Terminologies like Confusion Matrix, Precision, Recall & Accuracy.
+🚩 Clustering, it's Applications, K-means Algorithm study in detail.
+🚩In Classification: Demo using Logistic Regression, KNN Classifier, Decision Tree, & Random Forest Algorithms!
+🚩 In Clustering: Demo using K-Means Algorithm, using only 2 columns so that the data values can be visualized!
+
+🚩The Rest of the Day I worked on the Hack since we had finally decided on our project called Airy Pages! ❤
+Will share more about this in next post!
+
+🌊 Talks/Livestreams :
+
+🍀Getting Started with Auth0 by @bendecharai hosted by @khushi from HackOn Hackathon.
+🚩 What exactly is Auth0?
+🚩 How it is a Authorization Identity Platform that's absolutely robust & secure 🔐.
+🚩 A Demo of how to integrate Auth0 with React, NodeJs and Express!
+🚩 The Pricing involves a Free Tier after its expiry, you will be charged according to the usage!
+🚩 It supports a lot of tech stacks & hence it is very flexible & can be integrated in almost any project.
+🚩 What is MultiFactor Authentication & How it is implemented.
+🚩 Addressing the Difference between OAuth, Auth0 & Postman since these terms are heard quite often when talking about authorization.
+
+🍀 A Spontaneous Community Call with @siddharth_hacks & other community members.
+🚩 We had a quick discussion on HackOn Hackathon, what we did today & general stuff.
+🚩 Also did a quick personal website review, in which many community members gave their input. The website was made by @pulkitsinghdev.
+
+🍀 Moderated a Session on Introduction to Git & Github by @avinash ranjan hosted by @hackthemountains
+Topics Discussed:
+🚩 What is a Version Control System?
+🚩 What is distributed VCS?
+🚩 Why do we use Git?
+🚩 What is a repository & how to create one.
+🚩 Basic Git Commands.
+🚩 What exactly is Github & How it works.
+🚩 Relation of Github and Command Line.
+
+### R1D74(31 May)
+
+✨Hackathon Ends + Winners Announced!
+
+📖Hackathon Project:
+🚩 Our project was called Airy Pages, & we managed to complete & submit a project even though we faced a lot of challenges!
+🚩 Our project was aimed towards autistic children & helping them to get over their issue of picking up social cues by training them in a game.
+🚩 I worked on the Gamification part of our project (The Book) while @starlightknown worked on the Main Landing page of our project & another mini app that was specifically built towards parents of the autistic children, & was built using Google Actions!
+🚩 We also had 2 first time hackers in our team & I'm glad they enjoyed this Hackathon & got the full experience!❤
+🚩We completed our project just in time for completion & were glad how it turned out!
+🚩 To check out our project, Link in BIO!
+
+n Machine Learning ⚙️:
+🧩 #MLDLS L4: Introduction to Deep Learning!
+🚩 What is DL & Neural Networks?
+🚩 Terminologies like Neurons, Layers, Input/Output/Hidden Layers.
+🚩 Weights, Bias & Activation Functions like ReLu & Sigmoid Function.
+🚩 The Perceptron Model, & playing with Neural Networks on the TensorFlow Playground!
+🚩 Also some additional terms like Epochs(Iterations) & Optimizers.
+🚩 & finally concepts like Overfitting & Underfitting!
+
+🌊 Talks/Livestreams :
+
+🍀 HackOn Project Showcase with @siddharth_hacks
+🚩 I really loved this session where almost all of the projects got a chance to showcase themselves by playing their demo video on the HackOn Channel!
+🚩 Not gonna lie, some projects where phenomenal & something I wouldn't even dream of building in a Hackathon!
+
+🍀HackOn Closing Ceremony with entire HackOn Team!
+🚩 The buildup & tension was crazy, all eagerly waited while the prizes were announced hoping their team was one of them! 💯
+🚩 Our team didn't win any prizes but I would like to congratulate all the winners for doing such an amazing job! ❤
+🚩 Your hard-work over the past 2 sleepless nights paid off!
+🚩 Thank you to the entire HackOn 2.0 Team for providing us with this opportunity!
+🚩 Hope to meet everyone at HackOn 3.0!
+
+### R1D75(01 June)
+
+### R1D75(02 June)
+
+### R1D76(03 June)
+
+### R1D77(04 June)
+
+### R1D78(05 June)
+
+### R1D79(06 June)
+
+### R1D80(07 June)
+
+### R1D781(08 June)
