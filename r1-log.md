@@ -1985,7 +1985,46 @@ Some Key Topics Discussed:
 
 ### R1D77(03 June)
 
+✨ SEM Exams Start + Community Call
+
+In Machine Learning ⚙️ :
+🚩Finished working on the Classification model for stars!
+🚩In the Clustering Task, I went a Little on the creative route & anime shows Dataset to cluster the data points according to the Anime ID & it's Rating!
+🚩 The algorithms I used were as follows :
+🔹K-means Clustering &
+🔹BIRCH - Balanced Iterative Reducing & Clustering using Hierarchies.
+🚩 I also looked into other different algorithms that can be used like Agglomerative, Divisive & DBSCAN!
+🚩 Exam (1/5) ✅
+
+🌊 Talks/Livestreams :
+
+🍀 SAWO Labs Connnect Community Call: hosted by @siddharth_hacks & @Cherish
+🚩 This community call was an amazing informal space where we got to know each other & network!
+🚩 The call started with Introductions & then talking about how each one of were involved in events conducted by SAWO Labs like their Vibe Check Episodes, Resume Reviews, Community Calls & so on!
+🚩 We also had Some really amazing roles and giveaways! Congratulations to all the Community members who won & were awarded these roles! ❤
+
 ### R1D78(04 June)
+
+✨Deep Learning + Good Vibes only! ❤
+
+In Machine Learning ⚙️ :
+🚩 Completed Clustering Task & Started working on Deep Learning Perception Model which is also called as Single Layer Perception & is the basic unit of a Neural Network.
+🚩 It consists of Input Values, Weights, Bias & an Activation Function.
+🚩 Some new libraries I used were TensorFlow, & Keras.
+🚩 The Optimizer used in my model was sgd or Stochastic Gradient Descent & loss was in mean squared error which should reduce with each epoch.
+🚩 I over trained the model not realizing it should be stopped when we get a stable value.
+
+🖥️ Work:
+🚩Submitted my application for Microsoft Learn Student Ambassador Program!
+🚩 Trying to keep things transparent so hence sharing about this with everyone that my CFP for the lightning talk for @devrelcon Tokyo got rejected!
+🚩 Nevertheless I will be attending the event because, the speakers are absolutely amazing!
+
+🌊 Talks/Livestreams :
+
+🍀 #TwitterSpaces on Tell me something Good by @DThompsonDev.
+🚩 An amazing Twitter Space! Loved to hear everyone that achieved something great this week, with everyone having a different perspective on what they considered an achievement.
+🚩 Be it getting a job interview, getting to spend some time with your family, getting a Ted Talk Opportunity,or even just coming to speak as a speaker on the Space!
+🚩 No Achievement was big or small, it was just positive vibes in that space!
 
 ### R1D79(05 June)
 
