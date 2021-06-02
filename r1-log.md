@@ -2015,7 +2015,7 @@ In Machine Learning ⚙️ :
 🚩 I over trained the model not realizing it should be stopped when we get a stable value.
 
 🖥️ Work:
-🚩Submitted my application for Microsoft Learn Student Ambassador Program!
+🚩Submitted My Application for Microsoft Learn Student Ambassador Program!
 🚩 Trying to keep things transparent so hence sharing about this with everyone that my CFP for the lightning talk for @devrelcon Tokyo got rejected!
 🚩 Nevertheless I will be attending the event because, the speakers are absolutely amazing!
 
