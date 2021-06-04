@@ -2019,7 +2019,7 @@ In Machine Learning ⚙️ :
 🚩 Trying to keep things transparent so hence sharing about this with everyone that my CFP for the lightning talk for @devrelcon Tokyo got rejected!
 🚩 Nevertheless I will be attending the event because, the speakers are absolutely amazing!
 
-🌊 Talks/Livestreams :
+🌊 Talks/Livestreams:
 
 🍀 #TwitterSpaces on Tell me something Good by @DThompsonDev.
 🚩 An amazing Twitter Space! Loved to hear everyone that achieved something great this week, with everyone having a different perspective on what they considered an achievement.
