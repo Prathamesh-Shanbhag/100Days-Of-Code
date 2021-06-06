@@ -2028,7 +2028,150 @@ In Machine Learning ⚙️ :
 
 ### R1D79(05 June)
 
+✨Learning new things about Communities! ❤
+
+In Machine Learning ⚙️ :
+🚩Read through Keras Documentation to understand Optimizers, Metrics, & Losses.
+🚩 Completed & Submitted my Deep Learning Assignment Task, with Documentation of all terms.
+🚩 Exam (2/5)✅
+
+🌊 Talks/Livestreams :
+
+🍀 SAWO Vibe Check Ep- 5 | Starting & Scaling DevRel Teams hosted by @CherishSantoshi & guest speaker @vera tiago
+Important QnA's:
+🚩What do you do everyday as a DevRel Lead?
+🔹Work on the Three E's - Excite, Educate Experience!
+🔹Also work on Targeting revenue & customer satisfaction!
+
+🚩What are some unique things that are introduced by you?
+🔹The Super Users Program that helps the company to identify their long time & loyal community members & users.
+
+🚩 How to manage a community as a DevRel?
+🔹Make a compelling scene & Don't spam people, but commicate your results with your users.
+🔹Building strategy not only at the initial stage but it is very important to build one along the way.
+
+🚩 Top things that a newcomer should look for before starting a company DevRel Team?
+🔹Depends on the status of the company, & One should communicate with the department & identify the gaps so that a narrative can be built.
+
+🚩 How do you divide the work & How the Team works?
+🔹Community Managers create the program, they also handle the education program.
+🔹Developer Advocates work on Resuable Components, Blogs, & Speak at conferences.
+Some Developer Advocates are closer to the product & are the link between Developers & the DevRel Team.
+
+🍀 Chat with EddieHub Community & Bring your questions & stories with @eddiejaoude
+🚩 A very casual & chill stream which I honestly loved!
+🚩 Thanks to @starlightknown for suggesting this idea to Eddie would love to see more of these!
+🚩 People in the chat were very active & sharing a lot of stories!
+🚩 Thank to Cedric for sharing about the experience of the VR Hackathon that they won with Eddie, I quite liked the name too - 'HeadButt Dragons'!
+🚩 & as always link to join EddieHub is in my bio! ❤
+
 ### R1D80(06 June)
+
+✨DevRelCon Tokyo Day! ❤
+
+🙌A Break from Coding for Today!
+
+🌊 Talks/Livestreams :
+
+🍀Sakura Track: DevRelCon Tokyo 21' -
+Using Live Streaming to Build and Engage your Developer Fan Base by @mishmanners
+🚩A Very Important Reason why people should use livestreaming to build & connect with the audience is because ever since Covid Everything has become virtual so there are lot more people now engaging with live content.
+🚩 One such platforms people should leverage is Twitch!
+🚩 People often think Twitch is just for gaming, although that is not true, because the platform has changed a lot over the years.
+🚩 Some categories that really blew up in past few years were:
+🔹Special Events like Talks & Conferences. (5.4 mil hours)
+🔹Music
+🔹Sports
+🔹Art
+🔹Science & Technology (715,000 watch hours🤯)
+Some organisations that stream on Twitch under Science & Technology :
+🚩 The Live Coders, Twitch Developers, Twilio TV, IBM, Github Education, Microsoft!
+🚩 Why you should Livestream?
+🔹It is very engaging!
+🔹You can Tune In/Out, so it doesn't always need your undivided attention!
+🔹It has a personal touch, & very interactive.
+🔹Schedules - You can schedule a regular time when you stream.
+🔹You can reuse the content by clipping the stream & upload to YouTube too!
+🚩 How to get started on Twitch?
+🔹Just go for it! Hit the Go Live & start talking!
+🔹If you have a brand associated with you think about how you can provide value to the people, & try to be unique!
+🔹Take inspiration from other channels, look at their integrations that Twitch supports while streaming like a chatbot!
+
+🍀 Sakura Track: DevRelCon Tokyo 2021
+Hackathons - Gateway to Collaboration & Open Source! By @siddharth_hacks
+Siddharth appeared in this livestream presentation for a total of 12 times! 🤯
+
+🚩 What are Hackathons?
+Hackathons are an awesome way to bring your community together to learn new skills, build amazing projects, and share ideas!
+
+🚩 Who are Hackathons for?
+Hackathons are for everyone! & It is an awesome way to bring
+You don't have to be a programmer to be a part of any Hackathons!
+
+What are the Impacts of a Hackathons?
+🚩 They help in coming up with an innovative solutions to a problem!
+🚩 They are very inclusive, & it helps to educate ourself & other folks too!
+🚩 They help create a community, gives rise to many opportunities, helps to network with other people too!
+
+What is a Hacker Community & what are some experiences you get in such a community?
+🚩 It is a group of like minded people having same interests & like to attend Hackathons to solve the shared problems of our society!
+🚩 You can make new friends
+🚩 Share ideas & Knowledge, & learn from them simultaneously!
+🚩 Hackers collaborate based on their interests & skillsets!
+
+🚩In-depth Talks on Collaboration!
+🚩 Many people have different meanings of the same word, many people view it as sharing in Public, learning from others or gateway to opportunities!
+🚩 Ways one can collaborate are teaming up, pair programming, Mentor Connect Sessions, Communicating with sponsors & organizers!
+🚩 Speaking to Community partners & other Hacker Community is also crucial! ❤
+
+🚩Open-Source at Hackathons!
+🚩 Hackathons are usually the start of an Open-Source project.
+🚩 As the OS God @eddiejaoude from EddieHub once said 'Collaboration 1st, Code 2nd' this is super important too!
+
+🚩How to get involved in Hackathons?
+🚩 There are many roles that you could take up in a Hackathon!
+🚩 To mention a few roles: Hacker, Organizing Team Member, Mentor, Speaker, Judge, or Organize one by yourself!
+
+✨More Events! ❤
+
+In Machine Learning ⚙️:
+🧩 #MLDLS L5 : Deep Learning Continued & MLDLS Graduation!
+
+🚩 Learnt about some really cool stuff related to Deep Learning like Image Classification, Transfer Learning, & ready to use models available from Cloud Services since it is very difficult to determine perfect parameters by ourselves.
+
+🚩 My Journey in MLDLS was absolutely phenomenal, I feel like I actually started from the basics, & moved onto complex topics that I can now implement by myself!
+🚩 The Assignments were such an integral part, If it was just sessions I probably wouldn't have tried to implement it by myself.
+🚩 Although the Journey was amazing, All Good things must come to an end & so we had the closing ceremony, & got our certificates!
+🚩 My only Ray of hope to stay connected & enjoy this journey for a little longer is the Capstone Project! ❤(Super Excited!)
+
+🌊 Talks/Livestreams :
+
+🍀 Public Speaking Session in the EddieHub Discord Channel!
+🚩 The Topic was Sharing About Some Fun School/College Stories.
+🚩 I shared about the pre-covid times of my college, & the amazing annual events that I was a part of!
+🚩 As for the rest I got to hear some really amazing stories, experiences from everyone else & Eddie himself!
+🚩 I don't know everything that there is to tech or life in general so hearing from other folks always gives you a fresh perspective, but is often ignored by a lot of people thinking it might show as if you're not experienced enough, which is definitely not true!
+🚩 These sessions are held every Saturday at 6pm IST/1:30PM BST, so I would request everyone to join these sessions & interact with Community members which will in turn sharpen your Public Speaking skills!
+🚩 🔗 Link in BIO! ❤
+
+🍀 Stepping into Open-Source with @kunalsig !
+🚩 What is Open-Source & FOSS?
+🚩 Degree of Freedom using Licences on Open Source Projects.
+🚩 Reasons to Embrace Open-Source?
+🔹Quality, Reliability, Security, Stability, Flexibility, Freedom & most importantly Community!
+🚩 Why contributing is important?
+🔹As a Student you get Real world experience, Community Bonding, Exposure to good projects, it also becomes a way to test your skills, Opportunities & Satisfaction of writing good usable code!
+🚩 How to Contribute?
+🔹Anyone can contribute, & you don't need to be an expert to contribute!
+🔹You can also look at non-code contributions!
+🔹For finding projects to contribute search on Github with the language you are comfortable in.
+🚩 Two Main Approaches for contributing in a Organisation.
+🔹Top-Down: Learn the skills - - > Choose the Organisation.
+🔹Bottom-Up: Choose the organisation - - > Learn the skills.
+🚩 Three Pillars of Successful Contribution in any organisation.
+🔹Introduce Yourself.
+🔹Search for Projects.
+🔹Look for Open Issues & Fix them.
 
 ### R1D81(07 June)
 
