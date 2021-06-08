@@ -2175,4 +2175,33 @@ In Machine Learning ⚙️:
 
 ### R1D81(07 June)
 
+✨A Day Well Spent!
+
+🚩I actually spent most of the time writing out my previous posts, & most importantly -
+🚩 I helped out few friends of mine get started with Git & Github, helped them host their very first website using Vercel & Firebase both because they were interested in learning both the technologies.
+🚩 I also gave them a quick intro on What is React?, How does it work, terms like Components, & Getting Started using Create-React-App!
+🚩 I also told them about the Github Student Developer Pack, which they were unaware of until now!
+🚩 The feeling of helping someone get started with something that you're equally passionate about is something that can't be matched, which is one of the many reasons why communities are amazing! ❤ (Think of it as your friends watching a show with the same interest & enthusiasm as you, & that show was recommended by you from one of your favourites!)
+
+🌊 Talks/Livestreams :
+
+🍀 Moderated a session on Introduction to Julia Programming by @LoGankilpatri hosted by @hackthemountains
+
+🚩 What is Julia & How one can leverage it?
+🔹Shirt Innovation Cycle.
+🔹Growing Community
+🔹Speed & Reproducibility.
+
+🚩 Features of Julia:
+🔹Open-Source, Reproducible, Built to be Fast, Familiar Syntax, Dynamic & Composable, Well suited for Data Intensive Problems.
+
+🚩 Applications of Julia!
+🔹Pumas AI (Fore-front of Healthcare Sector)
+🔹NASA!
+🔹Clima - Climate Modeling
+🚩 The session was super interesting & got me thinking of various places that Julia could've been used, & I definitely felt like it's one of those languages I'd love to explore.
+🚩 I also asked Logan about the story of applying 503 times for an internship at Apple.
+🚩 Long story short - There's no way one can get any internships in 2-3 application, there has to be constant effort, Cold-Emailing, Reaching out, Sharing your Journey & Looking for Opportunities, & a whole lot of Applications!
+🚩 Register for JuliaCon that is coming up soon! ❤
+
 ### R1D82(08 June)
