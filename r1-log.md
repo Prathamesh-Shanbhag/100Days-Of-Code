@@ -2557,6 +2557,22 @@ In ⚛️ :
 
 ### R1D98(23 June)
 
+✨Writing + Work! ❤
+
+In ⚛️ :
+🚩 Finally Completed my Cart Project!
+🚩 The Cart functionality now completely works, as I had wanted, & all of this worked because of the useReducer() hook!
+🚩 As the Days of this challenge are about to end, I will try & kick thing into high gear & put out more content & also work more on the coding aspect!
+
+🖥️ Work :
+🚩 Worked on my blog post, that is going to be out tomorrow, the blog is heavily gif dominated so it involved a lot of screen recording & editing!
+
+🚩 Worked on some MLH INIT Challenges!
+
+🌊 Talks/Livestreams :
+
+🍀 Couldn't attend any Talks or Livestreams for Today!
+
 ### R1D99(24 June)
 
 ### R1D100(25 June)
