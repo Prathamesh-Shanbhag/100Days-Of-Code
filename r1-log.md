@@ -2575,4 +2575,30 @@ In ⚛️ :
 
 ### R1D99(24 June)
 
+✨T Minus 1 Day To Go!
+
+🖥️ Work:
+🚩 Finally Finished Working on my Blog today & it's out!
+🚩 The Blog is on 'What exactly is the Github Student Developer Pack & how to avail it?' 🎒
+🚩 It has been updated with all the details of the Virtual Event Kit!
+🚩 Do give the Blog a read & provide feedback in the blog's comment section!
+🔗 The Link to My Blog is in my BIO!
+
+🌊 Talks/Livestreams :
+🚩Can't say if this is a co-incidence or fate but as soon as I posted my blog, I got to know that @GitHubEducation has an event planned around the new Virtual Event Kit! 🎉
+🚩 My blog was shared during the event, & that made my day! ❤️
+
+🍀 Github Virtual Kit Event Launch!
+Some Takeaways:
+🚩 Virtual Events have been so successful & so inclusive that they are here to stay!
+🚩 Tips for organizing events include :
+🔹Think of what you want yourself & your attendees to get out of the event.
+🔹Make use of a safe space like Discord where the Hackers, Organizers, Mentors & everyone else associated with a Hackathon event can connect & interact.
+🔹Keep mini-events to drive engagement within the Event community.
+🔹Since people from all around the world can now participate in your event, try to make the most of it & leverage this opportunity to create the best experience for the attendees!
+🚩 Ways to make the Server a Safe Space, & create a sense of belonging and free of any form of judgement.
+🚩 Discord Moderation Guidance & Tips/Tricks to keep the Discord Server a happening and safe space from the moderators point of view.
+
+🍀 MLH INIT LeaderBoard Update!
+
 ### R1D100(25 June)
