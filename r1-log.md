@@ -2533,6 +2533,28 @@ In ⚛️ :
 
 ### R1D97(22 June)
 
+✨The Beginning & The End of 2 Events.
+
+🚩 Got my first jab today! 💉
+
+🚩 Spent a major chunk of the day solving issues in the form of tickets that came up in the server during the Hackathon.
+🚩 The later half of my day I spent reviewing the projects submitted by the hackers under the role of a Mentor for @HackMountains.
+
+🔥 & Finally @MLH INIT starts today!
+
+🌊 Talks/Livestreams :
+
+🍀 MLH INIT Opening Ceremony!
+🚩 We were introduced to MLH INIT & what it is all about including Daily & Week Long challenges and most importantly the swag!
+
+🚩 Thanks to @vedantkakde for capturing this image from when my Picture that I clicked a few months ago from the LHD Share event was Featured once again in MLH INIT!
+
+🍀@hackthemountains closing Ceremony!
+🚩 The Hackathon was a great success!
+🚩 I am super happy that I was able to contribute to this Hackathon with 3 Different Roles - Ambassador, Moderator & Mentor!
+🚩 It Definitely was one of a kind, Congratulations to the winning teams & Congratulations to all the organizers for putting up such an amazing Hackathon!
+🚩 Can't wait for HTM 3.0 Next year! ❤
+
 ### R1D98(23 June)
 
 ### R1D99(24 June)
