@@ -2205,3 +2205,50 @@ In Machine Learning ⚙️:
 🚩 Register for JuliaCon that is coming up soon! ❤
 
 ### R1D82(08 June)
+
+✨Revision +Talks!
+
+In ⚛️ :
+🚩 Went through some React Conecpts from the start, since I came across a hook that I couldn't understand the use of so went back and revised from the very basics.
+
+🌊 Talks/Livestreams :
+
+🍀 The Campus DevRel Show by@GitHubEducation and hosted by @yashovardhan with guest speaker @tanay1337
+Some Important Takeaways:
+🚩 Learnt about some new terms like OKR & KPI - Objectives & Key Results /Key Performance Indicators, which is very crucial for a structured project.
+🚩 The Importance of Personal Branding & Content Creation.
+🚩 Experimenting with different available options to see what clicks with the community.
+🚩 Stepping into DevRel is difficult but a person who is active in the community, hosts workshops & talks will have a good profile, fit to be a part of any DevRel Team.
+
+### R1D83(08 June)
+
+✨ Learning about Research Programs!
+
+In ⚛️:
+🚩 Completed with revision of basic Concepts & Hooks especially useRef hook which was part of the last things I learnt in React.
+
+🌊 Talks/Livestreams :
+
+🍀 Research 101 Series by @vedant_bahel.
+🚩 A brief intro to the Github Repo he has created with all research related information packed into one space which I thought was really awesome.
+🚩 QnA session on how to get Started, choosing your title, & some research programs like Mitacs Canada, unfortunately since I am in third year the student program wouldn't be accepting me anymore.
+
+### R1D84(09 June)
+
+### R1D85(10 June)
+
+### R1D86(11 June)
+
+### R1D87(12 June)
+
+### R1D88(13 June)
+
+### R1D89(14 June)
+
+### R1D90(15 June)
+
+### R1D91(16 June)
+
+### R1D92(17 June)
+
+### R1D93(18 June)
