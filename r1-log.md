@@ -2235,6 +2235,15 @@ In ⚛️:
 
 ### R1D84(09 June)
 
+✨ Digital Detox!
+
+🚩 Finished another exam, but mostly took rest for the rest of the day!
+🚩 Went through some of my previous projects on React to see what I had created & how it was structured.
+
+🌊 Talks/Livestreams :
+
+🍀 No Talks or Livestreams Today!
+
 ### R1D85(10 June)
 
 ### R1D86(11 June)
