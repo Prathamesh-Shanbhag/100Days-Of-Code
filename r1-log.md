@@ -2246,7 +2246,53 @@ In ⚛️:
 
 ### R1D85(10 June)
 
+✨Project + Talks!
+
+In ⚛️ :
+🚩 Started working on a Navbar Mini Project.
+🚩 The Navbar project is to implement useRef hook & get used to its usage.
+🚩 Learnt the benefits of storing data as an array of objects over hardcoding them like Navbar links, to make the website completely dynamic.
+
+🌊 Talks/Livestreams :
+
+🍀 #TwitterSpaces on DevRel by @eddiejaoude & the panel.
+Some topics discussed were:
+🚩 Biggest challenges the speakers faced while getting into DevRel.
+🚩 The Experience required to get Into DevRel.
+🚩 Two very important things I learnt were:
+🔹Don't be scared to experiment & try out your luck in different opportunities.
+🔹Don't be scared to openly share that you want to be a DevRel!
+
 ### R1D86(11 June)
+
+✨ Productivity City!
+
+In ⚛️ :
+🚩 Completed Navbar project that involved making the Navbar dynamic with a height that adjusts according to the amount of links added, so that if anytime new pages with their links are added, it can be dynamically readjusted. (Good Practice to do so too.)
+
+🌊 Talks/Livestreams :
+
+🍀 SAWO Vibe Check Ep 6: The Convergence of Community & Product Led Growth hosted by Cherish Santoshi & speakers Prabhat & @vatsal kanakia
+Takeaways:
+🚩 Communities are important for all buisnesses today, or building distribution with the product is very important.
+🚩 Companies cannot just rely on performance marketing, ads or flyers in today's world.
+🚩 Feedback from the community is also very important, this is when true community led growth becomes visible.
+🚩 A Company that keeps an Open-Mind & opt for the Try before you buy model, where you can experience the product in a free tier, is more likely to retain users and other organizations too.
+🚩 There's no hard & fast rule like Product before Community or Community before product, the community is always going to help you in any shape or form, so even a No-Agenda Community is the best way to go about it, when building a Community before product.
+
+🍀 Typescript Discord Bot on NodeJs using NestJS Livestream with @eddiejaoude.
+🚩 In this stream Eddie & many of the community members collaborated, nhcarrican in particular & we did pair-programming!
+🚩 Eddiebot now removes the warning from the messaging channel on the Discord Server, when someone edits the message to maintain inclusivity!
+🚩 It might seem like a very small change, but just the thought process of coding it & the way it was done was so cool!, It makes me feel I still have a lot to learn! ❤
+🚩 Join in for more such streams every Friday 6pm BST/ 10:30pm IST!
+🔗 Link to Join EddieHub is in my BIO!
+
+🍀 #TwitterSpaces Tell me something Good Series by @dthompsondev
+🚩 I have now been a regular at these spaces just for the positive vibes I get from being present there!
+🚩 People share their achievements & Danny and other people appreciate their work!
+🚩 According to me this kind of interaction is so much better & on many levels, than sharing an Achievement on socials via a post!
+🚩 For everyone who wants to join this space:
+🌟It is held every Friday 4pm CST/ Saturday 2:30 am IST!
 
 ### R1D87(12 June)
 
