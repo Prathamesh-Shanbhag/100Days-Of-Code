@@ -2296,6 +2296,17 @@ Takeaways:
 
 ### R1D87(12 June)
 
+✨An Unproductive Week.
+
+🚩 The talks that I was a part of provided so much value & were probably something that made up most of my productive time.
+🚩 In terms of coding I was doing the bare minimum of about 1 hour, because it's taking me a while to get back in flow after being scarred by college exams.
+🚩 Went out for a drive after many months & was out for quite a while.
+🚩 Nevertheless, I got ready for my Google Developers Student Club Lead Interview which was scheduled for today, but has now postponed to tomorrow afternoon.
+
+🌊 Talks/Livestreams :
+
+🍀 No Talks or Livestreams!😓
+
 ### R1D88(13 June)
 
 ### R1D89(14 June)
