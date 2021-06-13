@@ -2309,6 +2309,27 @@ Takeaways:
 
 ### R1D88(13 June)
 
+✨Interview Day!
+
+In ⚛️ :
+🚩 Learnt about useReducer Hook & it's uses/syntax, & exceptions.
+🚩 Also started with learning theory of Context API's.
+
+🖥️ Work:
+🚩 Got done with my interview for the GDSC Lead!
+🚩 I will address a few pointers for people who still have their interview lined up soon:
+🔹 While it is not necessary for you to turn on your camera for the interview it is recommended so that you can have a proper conversation with the interviewer.
+🔹Make sure to prepare a short intro about yourself beforehand -
+🔹Things to avoid adding in the Intro:
+Talks about any Projects in Detail, or Communities that you are a part of, or your reason/motivation to become a Lead.
+🔹These above points are to be avoided because these points are asked as separate questions so to avoid repetition of what you'll be saying keep the intro short & crisp.
+🔹Read your own application & go through your video thoroughly before the interview because there might be a gap of 1 month before the application acceptance & interview & you might forget what you had mentioned.
+🔹They are looking for people who love to collaborate & get involved with communities, so while mentioning projects always mention how you collaborated on those projects!
+🌟 Talking about Hackathon Projects is your best bet because it usually involves building something with other folks, unless you participate only by yourself in Hackathons.(Not recommended :P)
+🔹Read up on the GDSC website about what you will be doing as a Lead make sure to know the role inside out, because they want to make sure that the person is aware of what they're applying for.
+🔹Know why you are applying for this position because they will be keen on knowing your reason for becoming a Lead.
+🔹& Finally a point that's super important be yourself, only state things that you have genuinely worked on & be ready for a few Spontaneous Questions as well!
+
 ### R1D89(14 June)
 
 ### R1D90(15 June)
