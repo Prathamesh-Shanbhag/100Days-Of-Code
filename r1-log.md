@@ -2291,7 +2291,7 @@ Takeaways:
 🚩 I have now been a regular at these spaces just for the positive vibes I get from being present there!
 🚩 People share their achievements & Danny and other people appreciate their work!
 🚩 According to me this kind of interaction is so much better & on many levels, than sharing an Achievement on socials via a post!
-🚩 For everyone who wants to join this space:
+🚩 For everyone who wants to join this space :
 🌟It is held every Friday 4pm CST/ Saturday 2:30 am IST!
 
 ### R1D87(12 June)
