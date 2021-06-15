@@ -2332,6 +2332,24 @@ Talks about any Projects in Detail, or Communities that you are a part of, or yo
 
 ### R1D89(14 June)
 
+✨Keeping it Crisp!
+
+In ⚛️ :
+🚩 Started working on two mini projects that implement the Prop Drilling & Context API concepts usage.
+🚩 The Projects are a Sidebar/Modal Project & A Stripe Payment Sub Menu Project.
+
+🌊 Talks/Livestreams :
+
+🍀 The Campus DevRel Show by@GitHubEducation & hosted by @yashovardhan & guest speaker @taylor krusken
+Some Takeaways:
+🚩 A Technical Background is not necessary for someone to pursue the DevRel Role.
+🚩 If you have more than 70% skills of what the job description is asking for you should always apply!
+🚩 Always stay true & transparent about the things you mention in your resume & cover letter.
+🚩 A very common misconception that DevRel is Just marketing & nothing else was debunked.
+🚩 A person having a diverse profile termed as a Generalist & a person who is completely focused on one aspect, such as a tool or language called as a Specialist, both have space in the DevRel Team depending on the requirements of the company.
+🚩 Another important point is to take feedback from the users consuming your content & apply that feedback too!
+🚩 Taylor's journey was super inspiring, & also because of the amount of challenges he faced & still managed to do so many great things!
+
 ### R1D90(15 June)
 
 ### R1D91(16 June)
