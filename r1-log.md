@@ -2352,6 +2352,31 @@ Some Takeaways:
 
 ### R1D90(15 June)
 
+✨T minus 10 days.
+
+In ⚛️ :
+🚩 Worked on the Sidebar/Modal Project which implements Context!
+🚩 Next on the Agenda of React is Learning Custom Hooks!
+
+🌊 Talks/Livestreams :
+
+🍀 Research 101 by @vedant_bahel
+🚩 Brief Introduction for new people joining for the first time, & Learning about Cold Emailing Best Practices.
+🚩 Points to keep in mind when writing a cold email to some University teachers working on some research paper:
+🔹Write a very short intro about yourself.
+🔹Appreciate some of their previous works after reading about it properly & quoting few lines.
+🔹Write that you have same interests & that you would love to work on something similar, add a Github Repo or something similar as proof of work.
+🔹 Make sure that you can provide value to the teacher if accepted as a research intern & make sure to mention the same as well, & finally ask to schedule a call to speak further on this topic!
+🚩 Best ways to find Professors is to go through the Research papers and look for the author & then search further for their contact details.
+
+🍀 #TwitterSpaces on DevRel by @carrycooldude
+Some takeaways:
+🚩Overall A very insightful space on the DevRel Space as a whole.
+🚩 The DevRels present in the space gave a perfect explanation of what their job role is about, despite the different speculations from other people.
+🚩 Something that I really liked & was brought up by some of the speakers was the that how the role of DevRel is not just Linear but very dynamic & they have a lot of responsibilities.
+🚩 More than often the DevRel Team is handling a lot of things on many fronts for the company & is also considered a core team for a lot of the companies which was something new to me too.
+🚩 The recent shift from more of community based marketing from product based marketing has caused companies to adopts ways in which they can get to know the community better & listen to their feedback & DevRel is one such way.
+
 ### R1D91(16 June)
 
 ### R1D92(17 June)
