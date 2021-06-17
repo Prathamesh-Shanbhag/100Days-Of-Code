@@ -2379,6 +2379,39 @@ Some takeaways:
 
 ### R1D91(16 June)
 
+✨Back at it after a Break!
+
+In ⚛️ :
+🚩 Finished with Sidebar/Modal Project!
+🚩 Moving on to the next project is the Stripe Payments Submenu Project, which is something I'm eager to learn because I might use the submenu in some of my own projects!
+
+🌊 Talks/Livestreams :
+
+🍀 The Campus DevRel Show by@GitHubEducation and hosted by @yashovardhan with guest speaker @naderdabit
+Takeaways:
+🚩 There are many ways to create content, Videos, Posts, Livestreams, Podcasts, or even Code Snippets!
+🚩 Optimize Knowledge over money always, which will always give good returns.
+🚩 Consistency is Key! 🔑
+🚩 Content Creation will help you overcome Imposter Syndrome just because of the immense positive feedback you get from other people.
+🚩 There are different ways one can be consistent while creating content, & one such way is writing them down on a Trello Board or Kanban Board, which will help you create content with a proper schedule.
+🚩 After following a schedule, you might form an habit, & the community will always remind you that they want to engage with your content.
+🚩 Ways to stand out while create content is to find out how to present the content in such a way that it provides the most value to other people!
+🚩 Another way to get engagement is to create content on an unexplored area or domain.
+🚩 The most perfect blogs to make would be on the topics that was a problem you solved after going through a lot of solutions.(Basically writing about your 'Aha Moments')
+🚩 Building the community and
+🚩 Blog posts can always be updated & hence they're eternal as opposed to videos which cannot be edited once uploaded!
+🚩 Putting yourself out there, like creating content
+🚩 As a DevRel it is very important to know about the product you are talking about so being a Developer too will always make it easier for yourself.
+
+🍀 @SawoLabs Resume/CV Review hosted by @cherishsantoshi & @sakshi @ayushisvg
+Takeaways:
+🚩 Mentioning your blog page, & hyperlinking your projects & socials is always a plus point.
+🚩 Certifications done from the college should be avoided, or any standard template for the resume with the college logo should be avoided.
+🚩 Make sure to keep the formatting perfect since the human eyes are accustomed to read from left to right & hence clear boundaries & formatting is important.
+🚩 Make use of the white space left to add some crucial points only, don't add projects that aren't relevant to the position you're applying for.
+🚩 Make sure to always add work samples by hyperlinking if you're applying for a content writer position!
+🚩 Always make sure to keep points bulleted & not in paragraph formats & also keep it as short as possible, keeping in mind the attention span of the people reading your resume!
+
 ### R1D92(17 June)
 
 ### R1D93(18 June)
