@@ -2414,4 +2414,16 @@ Takeaways:
 
 ### R1D92(17 June)
 
+✨Another Day Another Project!
+
+In ⚛️ :
+🚩 Started working on The Stripe Submenu Project!
+🚩 The UI of the Project is a little larger than usual hence it took up most of my time!
+🚩 Although a lot of the part of toggling the menu in a smaller screen was almost similar to my previous Navbar project so I didn't rewrite it.
+🚩 I'm hoping to use the Submenu in one of my future projects!
+
+🌊 Talks/Livestreams :
+
+🍀 No Talks or Livestreams Today!
+
 ### R1D93(18 June)
