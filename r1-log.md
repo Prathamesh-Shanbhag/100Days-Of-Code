@@ -2427,3 +2427,28 @@ In ⚛️ :
 🍀 No Talks or Livestreams Today!
 
 ### R1D93(18 June)
+
+✨Coding Streak!
+
+In ⚛️ :
+🚩 Still working on the Stripe Payments Submenu Project, because the project is a large one!
+🚩 Used custom hook useGlobalContext(), a hook that allows you to pull any functions or variables from other components without having to import a lot of stuff, only import is itself.
+🚩 Understood the use case of useRef() much better during this project.
+
+🌊 Talks/Livestreams :
+
+🍀 No Talks or Livestreams Today!
+
+### R1D94(19 June)
+
+### R1D95(20 June)
+
+### R1D96(21 June)
+
+### R1D97(22 June)
+
+### R1D98(23 June)
+
+### R1D99(24 June)
+
+### R1D100(25 June)
