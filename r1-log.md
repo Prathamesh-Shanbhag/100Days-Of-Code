@@ -2441,6 +2441,36 @@ In ⚛️ :
 
 ### R1D94(19 June)
 
+✨An Early Start!
+
+In ⚛️ :
+🚩 Completed the Stripe Submenu Project & it has turned out Great!
+🚩 The animation while switching between the menu options is super smooth too!
+🚩 This project heavily used a lot of the hooks I previously learnt like useState, useEffect, & useRef.
+
+🌊 Talks/Livestreams :
+
+🍀 Kubernetes Contributor Workshop by the Kubernetes Bangalore Team.
+Things Discussed in the session:
+🚩 Introduction to the Kubernetes Community.
+🚩 The Bifurcation of the Community into subgroups of Special Interest Groups(SIG) & Working Groups(WG), Committees & User Groups.
+🚩 Experiences of different contributors.
+🚩 How interaction & communication in the K8's community works.
+🚩 A Quick Tour of the Kubernetes Community Repositories.
+🚩 Deep-dive into Labels, Bits, & the GitHub Work flow.
+🚩 Ways to contribute & also to find your first issue.
+🚩 Live PR Demo followed by Hands on Session!
+
+🍀 #TwitterSpaces on Creating Content like a PRO hosted by @eddiejaoude & other experienced content creators!
+🚩 This space was full of value & something that I definitely needed because I was planning on creating more content in different forms & this helped me answer a few questions!
+Takeaways:
+🚩 How to get started with Content Creation?
+🚩 Ways to start prioritizing which content to put out, in case of having too much content, so that it doesn't start feeling like spam to the audience!
+🚩 Documenting your Journey is such an integral part of creating content, & since I started my journey the same way I couldn't agree more.
+🚩 While writing blogs keep in mind to keep the article as easy, concise, & as minimal as possible for better digestion of the viewer.
+🚩 It might be difficult to just get up & start creating content, & hence start small, write a 100 Words daily so that you can increment the words daily, & making it a habit!
+🚩 Documentation will help you find ideas too, more than often you will come across new ideas while going through your own content, rather than learning something new!
+
 ### R1D95(20 June)
 
 ### R1D96(21 June)
