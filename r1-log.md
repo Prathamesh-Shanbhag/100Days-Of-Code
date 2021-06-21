@@ -2473,6 +2473,32 @@ Takeaways:
 
 ### R1D95(20 June)
 
+✨New Project, Who dis?
+
+In ⚛️ :
+🚩 Started with a New E-Commerce Website submodule - A Cart Project!
+🚩 A Cart Page using useReducer(), that will also retain the cart items after refreshing the page on the browser.
+
+🖥️ Work:
+🚩 Started working on a Blog that I will publish soon!
+(Top Secret) 📁
+
+🎉Got Selected as A Mentor for Hack The Mountain's! ⛰
+🚩 Will be soon joining the experienced panel of mentors to help the hackers have a seamless experience during the course of this Hackathon!
+
+🌊 Talks/Livestreams :
+
+🍀 Getting Started with Symbl.AI with Akanksha Bhasin & Eric.
+🚩 What exactly is Symbl.AI & how it works?
+🚩 How Symbl.AI helps your applications to understand natural human conversations across any channel just by hitting a few endpoints.
+🚩 Symbl.AI has a lot of APIs like Streaming, Telephony, & Async API for Video, Audio & Text files!
+🚩 Symbl.AI's features include
+🔹Pre-built and customizable UI Elements.
+🔹Real time speaker diarization.
+🔹Extracting summary topics, topic Hierarchies from any conversations.
+🔹Entity and Intent Recognition, & Analysis.
+🔹Even works well with Twilio, Jira, Trello, Slack & so many other softwares!
+
 ### R1D96(21 June)
 
 ### R1D97(22 June)
