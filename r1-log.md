@@ -2501,6 +2501,36 @@ In ⚛️ :
 
 ### R1D96(21 June)
 
+✨Hackathon Begins!
+
+In ⚛️ :
+🚩 Still working on the Cart Project, now successfully able to add & remove items from the cart!
+🚩 Next up is adding the functionality for increasing or decreasing the amount of individual items in cart along with retaining them after browser refresh.
+
+🌊 Talks/Livestreams :
+🚩Moderated 2 Sessions as well as attended them-
+
+🍀 Getting Started with Draftbit hosted by @hackthemountains & speaker @aman Mittal
+🚩 Draftbit is a no-code/low-code platform that helps you build your app visually!
+🚩 You can Create, customize, and launch mobile apps all directly from your browser.
+🚩 Ways to use Bits, Blocks & few examples followed by a live demo of building an app.
+🚩 Draftbit is actually based on React Native & Expo making cross platform app building super easy, & it also has tons of re-usable example screens.
+🚩 Preview the App as your building it, on Browser or on your phone, & can also handle multiple collaborators in one space.
+🚩 Apps can be built with Complete Customization, along with third party integrations as well!
+
+🍀 Explore the Essentials of Blockchain on Tezos, once again hosted by @hackthemountains & speaker @Akhil Bharti
+🚩 What exactly is Tezos? - It is an open-source platform for assets and applications that can evolve by upgrading itself.
+🚩 InDepth Explanation of how Blockchain works with Terminologies like Blockchain Address, Private, Public Keys, Hashing Block Mining, Smart Contracts & Proof of Work/Proof of Stake.
+🚩 Tools used for Development of Blockchain Networks & live demo.
+🚩 Features of Tezos & how it compares to other similar platforms.
+🚩 Some of the features of Tezos are:
+🔹 Self-Amendment.
+🔹 On-chain Governance.
+🔹 Decentralized Innovation.
+🔹 Smart Contracts and Formal Verification.
+🔹 Proof-of-Stake (& why it is used / & how it is different from Proof-of-Work)
+🔹Delegation & Security based on Reward-Punishment System.
+
 ### R1D97(22 June)
 
 ### R1D98(23 June)
