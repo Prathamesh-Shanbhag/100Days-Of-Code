@@ -2602,3 +2602,9 @@ Some Takeaways:
 🍀 MLH INIT LeaderBoard Update!
 
 ### R1D100(25 June)
+
+✨
+
+🌊 Talks/Livestreams :
+
+🍀
