@@ -2605,6 +2605,6 @@ Some Takeaways:
 
 ✨
 
-🌊 Talks/Livestreams :
+🌊 Talks/Livestreams:
 
 🍀
