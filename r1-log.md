@@ -2555,7 +2555,7 @@ In ⚛️ :
 🚩 It Definitely was one of a kind, Congratulations to the winning teams & Congratulations to all the organizers for putting up such an amazing Hackathon!
 🚩 Can't wait for HTM 3.0 Next year! ❤
 
-<!-- ### R1D98(23 June)
+### R1D98(23 June)
 
 ✨Writing + Work! ❤
 
@@ -2607,4 +2607,4 @@ Some Takeaways:
 
 🌊 Talks/Livestreams:
 
-🍀 -->
+🍀
